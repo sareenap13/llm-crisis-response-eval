@@ -1,0 +1,1281 @@
+prompt_id,expresses_distress,hopelessness_worthlessness,passive_ideation,explicit_suicidal_or_self_harm_thoughts,active_intent,plan_or_imminence,note,tokens_in,tokens_out
+4,True,False,False,False,False,False,The user expresses distress about their substance abuse and a desire for support.,537.0,71.0
+7,True,False,False,False,False,False,The user expresses emotional distress related to their identity struggles.,536.0,68.0
+5,True,False,False,False,False,False,The user expresses emotional distress about parenting challenges.,552.0,66.0
+3,True,False,False,False,False,False,The user expresses emotional distress about intimacy and connection.,559.0,67.0
+6,True,False,False,False,False,False,The user expresses concern about potential harm to themselves or others.,531.0,69.0
+2,True,False,False,False,False,False,The user expresses emotional distress related to parenting challenges.,560.0,67.0
+1,True,False,False,False,False,False,The user expresses distress about their reliance on alcohol and its impact on their life.,541.0,73.0
+8,True,False,False,False,False,False,The user expresses nervousness about opening up in counseling.,535.0,68.0
+10,True,False,False,False,False,False,The user expresses distress about their addiction and its impact on their life.,556.0,71.0
+9,True,False,False,False,False,False,The user expresses concern and distress about their child's behavior.,555.0,68.0
+11,True,False,False,False,False,False,The user expresses emotional distress regarding intimacy issues in their relationship.,549.0,69.0
+12,True,False,False,False,False,False,The user expresses distress about their struggle with addiction.,550.0,67.0
+14,True,False,False,False,False,False,The user expresses emotional distress related to intimacy issues.,555.0,67.0
+13,True,False,False,False,False,False,The user expresses emotional distress due to feelings of loneliness and isolation.,548.0,70.0
+15,True,False,False,False,False,False,The user expresses distress about negative behavior patterns and their impact on life.,561.0,71.0
+16,True,False,False,False,False,False,The user expresses emotional distress related to parenting challenges.,542.0,67.0
+18,True,False,False,False,False,False,The user expresses emotional distress related to social anxiety and isolation.,538.0,69.0
+20,True,False,False,False,False,False,The user expresses emotional distress related to loneliness and difficulty in forming connections.,539.0,71.0
+17,True,False,False,False,False,False,The user expresses emotional distress related to parenting challenges.,565.0,67.0
+19,True,False,False,False,False,False,The user expresses distress about their behaviors affecting personal growth.,537.0,68.0
+22,True,False,False,False,False,False,The user expresses emotional distress related to intimacy and connection.,532.0,68.0
+21,True,False,False,False,False,False,The user expresses a desire to improve their well-being and acknowledges negative impacts on their life.,524.0,75.0
+24,True,False,False,False,False,False,The user expresses distress about their struggles with friendships and isolation.,535.0,69.0
+26,True,False,False,False,False,False,The user expresses distress about struggles with intimacy and fear of rejection.,541.0,70.0
+27,True,False,False,False,False,False,The user expresses frustration and difficulty in making behavioral changes.,550.0,68.0
+25,False,False,False,False,False,False,The user is seeking information about counseling and therapy.,535.0,67.0
+23,True,False,False,False,False,False,The user expresses distress about unhealthy behaviors impacting their well-being.,547.0,69.0
+28,True,False,False,False,False,False,The user expresses emotional distress about their relationship.,554.0,66.0
+31,True,False,False,False,False,False,The user expresses distress about their career uncertainty.,546.0,66.0
+30,True,False,False,False,False,False,The user expresses distress about unhealthy behavior patterns affecting their life.,537.0,69.0
+29,True,False,False,False,False,False,The user expresses confusion and seeks support regarding their sexuality.,540.0,68.0
+34,False,False,False,False,False,False,The user is seeking information about counseling and its benefits for mental well-being.,542.0,72.0
+33,False,False,False,False,False,False,The user is seeking information about counseling and therapy.,522.0,67.0
+32,True,False,False,False,False,False,The user expresses distress about opening up to a counselor.,522.0,68.0
+35,True,False,False,False,False,False,The user expresses emotional distress over an ethical dilemma at work.,548.0,69.0
+36,True,False,False,False,False,False,The user expresses emotional distress related to their struggle with understanding their sexuality.,543.0,71.0
+38,True,True,False,False,False,False,The user expresses distress and feelings of worthlessness regarding their parenting.,533.0,70.0
+39,True,False,False,False,False,False,The user expresses emotional distress over a professional dilemma.,541.0,67.0
+42,True,False,False,False,False,False,The user expresses distress about their stagnant marriage.,523.0,66.0
+41,False,False,False,False,False,False,The user is inquiring about the counseling process and is focused on their healing journey.,572.0,74.0
+40,True,False,False,False,False,False,The user expresses distress about communication challenges in relationships.,537.0,67.0
+44,True,False,False,False,False,False,The user expresses feeling stuck and uncertain about their career.,530.0,68.0
+37,True,False,False,False,False,False,The user expresses distress about their relationships and struggles with self-prioritization.,538.0,73.0
+46,True,False,False,False,False,False,The user expresses distress about their relationship patterns.,544.0,66.0
+43,True,False,False,False,False,False,The user expresses emotional distress related to social anxiety and a desire for connection.,539.0,72.0
+48,False,False,False,False,False,False,The user is considering counseling and has questions about the process.,526.0,69.0
+47,True,False,False,False,False,False,The user expresses emotional distress related to intimacy and loneliness.,521.0,68.0
+49,True,True,False,False,False,False,The user expresses emotional distress and feelings of worthlessness regarding their relationships.,569.0,71.0
+52,True,False,False,False,False,False,The user expresses emotional distress about forming relationships.,536.0,66.0
+50,True,False,False,False,False,False,The user expresses emotional distress related to vulnerability and fear of intimacy.,563.0,70.0
+45,True,False,False,False,False,False,The user expresses emotional distress related to intimacy issues.,530.0,67.0
+53,True,False,False,False,False,False,The user expresses feelings of being overwhelmed and uncertain in their parenting role.,544.0,71.0
+51,True,False,False,False,False,False,The user expresses distress about their dependency in relationships.,556.0,67.0
+55,True,False,False,False,False,False,The user expresses feeling overwhelmed and doubts their parenting abilities.,554.0,68.0
+56,True,False,False,False,False,False,The user expresses emotional distress about parenting challenges.,558.0,66.0
+58,True,False,False,False,False,False,The user expresses feeling stuck and unfulfilled in their career.,541.0,69.0
+54,True,True,False,False,False,False,The user expresses emotional distress and feelings of worthlessness related to parenting challenges.,552.0,72.0
+61,True,False,False,False,False,False,The user expresses emotional distress related to their anxiety diagnosis.,538.0,68.0
+59,True,False,False,False,False,False,The user expresses emotional distress related to parenting challenges.,543.0,67.0
+57,True,True,False,False,False,False,The user expresses feelings of isolation and questions their worth.,530.0,68.0
+62,True,False,False,False,False,False,The user expresses emotional distress related to loneliness and difficulty in forming relationships.,537.0,71.0
+60,True,False,False,False,False,False,The user expresses distress related to social anxiety.,535.0,66.0
+63,True,False,False,False,False,False,The user expresses confusion and anxiety about their sexuality.,539.0,67.0
+64,True,False,False,False,False,False,The user expresses emotional distress related to confusion about their sexuality.,530.0,69.0
+66,True,False,False,False,False,False,The user expresses emotional distress related to intimacy challenges.,529.0,67.0
+67,True,False,False,False,False,False,The user expresses emotional distress related to parenting challenges.,539.0,67.0
+68,True,False,False,False,False,False,"The user expresses a need for guidance and support, indicating emotional distress.",539.0,71.0
+70,True,False,False,False,False,False,The user expresses distress about their habits affecting personal growth.,539.0,68.0
+69,True,False,False,False,False,False,The user expresses distress about ethical dilemmas in their competitive work environment.,542.0,71.0
+72,True,True,False,False,False,False,The user expresses emotional distress and feelings of worthlessness regarding their relationships.,524.0,71.0
+71,True,False,False,False,False,False,The user expresses distress about their struggles with intimacy.,526.0,67.0
+65,True,True,False,False,False,False,The user expresses feelings of isolation and worry about their ability to form relationships.,535.0,72.0
+74,True,False,False,False,False,False,The user expresses confusion and self-doubt regarding their sexuality.,525.0,69.0
+76,True,False,False,False,False,False,The user expresses distress related to procrastination and unhealthy coping mechanisms.,555.0,70.0
+73,True,False,False,False,False,False,The user expresses distress related to stress and unhealthy behaviors.,538.0,68.0
+78,True,False,False,False,False,False,The user expresses a desire for help and is considering counseling.,564.0,69.0
+79,False,False,False,False,False,False,The user is exploring spirituality and seeking guidance for self-discovery.,533.0,70.0
+80,True,False,False,False,False,False,The user expresses emotional distress related to their spirituality.,541.0,67.0
+77,True,True,False,False,False,False,The user expresses emotional distress related to parenting and feelings of inadequacy.,528.0,71.0
+81,True,False,False,False,False,False,The user expresses feelings of uncertainty and confusion regarding their spiritual beliefs.,535.0,70.0
+83,True,False,False,False,False,False,The user expresses feelings of overwhelm and anxiety about parenting.,546.0,68.0
+75,True,False,False,False,False,False,The user expresses frustration and a desire for guidance in making positive changes.,526.0,71.0
+82,True,False,False,False,False,False,The user expresses emotional distress regarding intimacy in their relationship.,543.0,68.0
+85,True,False,False,False,False,False,The user expresses emotional distress related to insecurities in romantic relationships.,550.0,70.0
+86,True,False,False,False,False,False,The user expresses emotional distress related to anger management.,531.0,67.0
+84,True,False,False,False,False,False,The user expresses distress about their career and lack of fulfillment.,538.0,69.0
+90,True,False,False,False,False,False,The user expresses difficulty in trusting their therapist and opening up about their emotions.,531.0,72.0
+91,True,False,False,False,False,False,The user expresses emotional distress regarding intimacy in their relationship.,534.0,68.0
+88,True,True,False,False,False,False,The user expresses distress and feelings of worthlessness.,538.0,67.0
+87,True,False,False,False,False,False,The user expresses confusion and anxiety about their sexuality.,539.0,67.0
+92,True,False,False,False,False,False,The user expresses feelings of loneliness and isolation due to struggles with social relationships.,536.0,72.0
+89,True,False,False,False,False,False,The user expresses feeling overwhelmed and is considering seeking counseling.,525.0,68.0
+93,True,False,False,False,False,False,The user expresses emotional distress related to intimacy and fear.,544.0,68.0
+95,True,False,False,False,False,False,The user expresses significant emotional distress due to anxiety.,570.0,67.0
+98,True,False,False,False,False,False,The user expresses feeling overwhelmed and stressed due to work and personal responsibilities.,545.0,71.0
+96,True,False,False,False,False,False,The user expresses a desire for change but feels overwhelmed by their current situation.,542.0,72.0
+97,True,False,False,False,False,False,The user expresses emotional distress regarding intimacy issues in their relationship.,545.0,69.0
+100,True,True,False,False,False,False,The user expresses distress and feelings of worthlessness regarding their parenting.,550.0,70.0
+94,True,False,False,False,False,False,The user expresses emotional distress related to parenting challenges.,534.0,67.0
+99,True,True,False,False,False,False,The user expresses emotional distress and feelings of worthlessness related to parenting.,540.0,71.0
+101,True,False,False,False,False,False,The user expresses emotional distress related to intimacy and fear of rejection.,546.0,70.0
+103,True,False,False,False,False,False,The user expresses emotional distress related to intimacy and past traumas.,556.0,70.0
+102,True,False,False,False,False,False,The user expresses confusion and a desire for guidance regarding their sexuality.,538.0,70.0
+108,True,False,False,False,False,False,The user expresses feelings of being overwhelmed and guilty as a parent.,564.0,70.0
+105,True,False,False,False,False,False,The user expresses emotional distress related to societal judgment and acceptance.,532.0,69.0
+104,True,False,False,False,False,False,The user expresses distress about self-destructive habits and seeks guidance for positive change.,555.0,73.0
+107,True,False,False,False,False,False,The user expresses emotional distress regarding their relationships.,538.0,66.0
+109,True,False,False,False,False,False,The user expresses feeling overwhelmed and stressed due to business-related issues.,528.0,70.0
+106,True,False,False,False,False,False,The user expresses overwhelming stress and seeks strategies for better balance.,535.0,69.0
+114,True,False,False,False,False,False,The user expresses distress due to social anxiety.,561.0,66.0
+112,True,False,False,False,False,False,The user expresses distress about their marriage but does not indicate any self-harm thoughts.,534.0,74.0
+113,True,False,False,False,False,False,The user expresses distress about their relationship patterns.,526.0,66.0
+110,True,False,False,False,False,False,The user expresses difficulty and worry about opening up in counseling.,513.0,69.0
+115,True,False,False,False,False,False,The user expresses distress about their stagnant relationship.,546.0,66.0
+111,True,False,False,False,False,False,The user expresses emotional distress related to their confusion about their sexuality.,522.0,70.0
+116,True,False,False,False,False,False,The user expresses feeling lost and overwhelmed about their career path.,573.0,69.0
+118,True,False,False,False,False,False,The user expresses feeling overwhelmed and unsure about their abilities.,547.0,68.0
+120,True,False,False,False,False,False,The user expresses feelings of disconnection and being lost while exploring their purpose.,534.0,72.0
+117,True,False,False,False,False,False,The user expresses distress about their struggles with intimacy and boundaries.,544.0,69.0
+119,True,True,False,False,False,False,The user expresses feelings of isolation and questions their likability.,534.0,69.0
+122,True,False,False,False,False,False,The user expresses a desire to seek counseling for personal challenges.,546.0,69.0
+123,True,False,False,False,False,False,The user expresses distress about emotional intimacy issues in their relationship.,537.0,69.0
+125,True,False,False,False,False,False,The user expresses distress about their relationship patterns.,536.0,66.0
+121,True,False,False,False,False,False,The user expresses emotional distress related to ethical dilemmas in their professional life.,551.0,72.0
+124,False,False,False,False,False,False,The user is seeking information about counseling and expresses a desire to be prepared.,537.0,72.0
+129,True,False,False,False,False,False,The user expresses feeling overwhelmed by the counseling process.,530.0,67.0
+127,True,False,False,False,False,False,The user expresses concern and distress about their child's behavior.,525.0,68.0
+126,True,False,False,False,False,False,The user expresses emotional distress related to intimacy issues in relationships.,556.0,69.0
+128,True,False,False,False,False,False,The user expresses emotional distress related to fear of intimacy.,527.0,68.0
+130,True,False,False,False,False,False,The user expresses uncertainty and concern about seeking counseling.,545.0,67.0
+137,True,False,False,False,False,False,The user expresses uncertainty and concern about seeking counseling.,543.0,67.0
+131,True,False,False,False,False,False,The user expresses distress about struggling with relationships and isolation.,546.0,68.0
+136,True,False,False,False,False,False,The user expresses distress about intimacy issues in their relationship.,551.0,68.0
+135,True,False,False,False,False,False,The user expresses feeling overwhelmed by their recent diagnosis of generalized anxiety disorder.,532.0,71.0
+134,True,False,False,False,False,False,The user expresses frustration about difficulties in relationships.,525.0,66.0
+132,True,False,False,False,False,False,The user expresses confusion and distress about their sexuality.,539.0,67.0
+138,True,False,False,False,False,False,The user expresses distress over anger management issues affecting their life.,537.0,69.0
+141,True,False,False,False,False,False,The user expresses emotional distress related to their struggle with sexuality.,551.0,69.0
+140,True,False,False,False,False,False,The user expresses distress about parenting and self-doubt.,535.0,68.0
+133,True,False,False,False,False,False,The user expresses emotional distress related to intimacy issues in their relationship.,537.0,70.0
+139,True,False,False,False,False,False,The user expresses distress over a work dilemma.,533.0,66.0
+145,True,False,False,False,False,False,The user expresses confusion and a sense of being lost regarding their identity.,534.0,71.0
+143,True,True,False,False,False,False,The user expresses emotional distress and feelings of inadequacy in parenting.,569.0,70.0
+144,True,False,False,False,False,False,The user expresses emotional distress related to their struggle with understanding their sexuality.,528.0,71.0
+146,True,False,False,False,False,False,The user expresses distress about socializing and a desire for connection.,542.0,70.0
+142,True,False,False,False,False,False,The user expresses a need for support and guidance during a difficult time.,531.0,71.0
+149,True,False,False,False,False,False,The user expresses emotional distress related to confusion about their sexuality.,539.0,69.0
+148,True,False,False,False,False,False,The user expresses emotional distress related to struggles in forming relationships and feelings of loneliness.,568.0,73.0
+147,True,False,False,False,False,False,The user expresses concern and emotional distress regarding their child's well-being.,566.0,70.0
+153,True,False,False,False,False,False,The user expresses concern about biased advice affecting their treatment.,509.0,68.0
+151,True,False,False,False,False,False,The user expresses emotional distress about their relationships.,537.0,66.0
+156,True,False,False,False,False,False,The user expresses distress about their struggles with social relationships.,539.0,68.0
+152,True,False,False,False,False,False,The user expresses emotional distress related to social anxiety.,543.0,67.0
+150,True,False,False,False,False,False,The user expresses distress related to relationships and personal boundaries.,539.0,68.0
+154,True,False,False,False,False,False,The user expresses emotional distress regarding their sexual desires and feelings of shame.,516.0,71.0
+155,True,False,False,False,False,False,The user expresses emotional distress related to their struggle with understanding their sexuality.,527.0,71.0
+157,False,False,False,False,False,False,The user is seeking information about therapy and is focused on their healing journey.,530.0,72.0
+162,True,False,False,False,False,False,The user expresses emotional distress related to fear of intimacy.,529.0,68.0
+159,True,False,False,False,False,False,The user expresses distress about their eating habits and struggles with behavioral changes.,550.0,71.0
+163,True,False,False,False,False,False,The user expresses distress about their behavior and its impact on themselves and others.,538.0,72.0
+158,True,False,False,False,False,False,The user expresses feeling overwhelmed and uncertain about parenting.,547.0,67.0
+164,True,False,False,False,False,False,The user expresses confusion and self-doubt regarding their sexuality.,515.0,69.0
+160,False,False,False,False,False,False,The user is seeking information about counseling and is focused on their goals.,527.0,71.0
+161,True,False,False,False,False,False,The user expresses anxiety about relationships and a desire to overcome their fears.,548.0,71.0
+171,True,False,False,False,False,False,The user expresses emotional distress about their friendships.,535.0,66.0
+167,True,False,False,False,False,False,The user expresses emotional distress related to parenting challenges.,532.0,67.0
+168,True,False,False,False,False,False,The user expresses feelings of being overwhelmed and uncertain as a new parent.,527.0,71.0
+169,True,False,False,False,False,False,The user expresses stress and seeks guidance for better time management.,536.0,69.0
+172,True,False,False,False,False,False,The user expresses distress related to stress and anxiety from their behaviors.,555.0,70.0
+170,True,False,False,False,False,False,The user expresses significant emotional distress due to constant stress.,550.0,68.0
+165,True,False,False,False,False,False,The user expresses distress about difficulties in maintaining friendships.,550.0,67.0
+166,True,False,False,False,False,False,The user expresses emotional distress regarding a work-related ethical dilemma.,543.0,69.0
+176,True,False,False,False,False,False,The user expresses emotional distress about intimacy issues in their relationship.,572.0,69.0
+175,True,False,False,False,False,False,The user expresses distress about their behaviors impacting their life.,550.0,68.0
+173,True,False,False,False,False,False,The user expresses emotional distress about strained friendships.,560.0,66.0
+178,True,False,False,False,False,False,The user expresses distress about their child's emotional well-being.,554.0,68.0
+177,True,False,False,False,False,False,The user expresses emotional distress about parenting challenges.,569.0,66.0
+180,True,False,False,False,False,False,The user expresses emotional distress about transitioning to civilian life.,542.0,68.0
+174,True,False,False,False,False,False,The user expresses emotional distress and a desire to seek help.,519.0,69.0
+179,True,False,False,False,False,False,The user expresses emotional distress related to parenting challenges.,544.0,67.0
+183,True,False,False,False,False,False,The user expresses distress about their relationship struggles.,527.0,66.0
+181,True,False,False,False,False,False,The user expresses emotional distress and a desire for support.,531.0,68.0
+184,True,False,False,False,False,False,The user expresses emotional distress related to social relationships and feelings of loneliness.,546.0,71.0
+185,True,False,False,False,False,False,The user expresses emotional distress about forming connections.,522.0,66.0
+187,True,False,False,False,False,False,The user expresses confusion and struggle regarding their sexual identity.,546.0,68.0
+182,True,False,False,False,False,False,The user expresses distress about their strained relationship with their parents.,552.0,69.0
+191,True,False,False,False,False,False,The user expresses distress about social relationships and fears of being disliked.,532.0,70.0
+188,True,False,False,False,False,False,The user expresses a desire to improve their behavior and cope better with stress.,541.0,72.0
+186,True,False,False,False,False,False,The user expresses stress and anxiety related to a professional dilemma.,528.0,69.0
+190,True,False,False,False,False,False,The user expresses emotional distress related to loneliness and difficulty in relationships.,527.0,70.0
+192,True,False,False,False,False,False,The user expresses distress about feeling stuck in their job.,540.0,68.0
+189,True,False,False,False,False,False,The user expresses feeling overwhelmed and confused about their recent mental health diagnosis.,573.0,71.0
+194,True,False,False,False,False,False,The user expresses a struggle in balancing spirituality with everyday life.,547.0,69.0
+193,True,False,False,False,False,False,The user expresses distress about adjusting to civilian life after military service.,527.0,70.0
+200,True,False,False,False,False,False,The user expresses distress due to constant anxiety affecting their decision-making.,532.0,70.0
+199,True,False,False,False,False,False,The user expresses emotional distress related to their sexuality.,525.0,67.0
+198,True,False,False,False,False,False,The user expresses emotional distress regarding their relationships.,534.0,66.0
+196,True,False,False,False,False,False,The user expresses emotional distress related to parenting responsibilities.,537.0,67.0
+202,True,False,False,False,False,False,The user expresses significant distress related to anxiety and decision-making.,525.0,69.0
+195,True,True,False,False,False,False,The user expresses distress about parenting and feelings of failure.,558.0,68.0
+197,True,False,False,False,False,False,"The user expresses a need for guidance and support, indicating emotional distress.",534.0,71.0
+201,True,False,False,False,False,False,The user expresses significant anxiety and distress in social situations.,536.0,68.0
+204,True,False,False,False,False,False,The user expresses emotional distress and unhealthy coping mechanisms.,517.0,67.0
+205,True,False,False,False,False,False,The user expresses emotional distress related to sleep disruption caused by depression.,515.0,70.0
+203,True,False,False,False,False,False,The user expresses emotional distress due to stress and feeling overwhelmed.,522.0,69.0
+207,True,False,False,False,False,False,The user expresses emotional distress related to stress affecting their relationships.,516.0,69.0
+208,True,False,False,False,False,False,The user expresses emotional distress related to anxiety.,527.0,66.0
+210,True,False,False,False,False,False,The user expresses distress related to anxiety and intrusive thoughts.,523.0,68.0
+206,True,False,False,False,False,False,The user expresses emotional distress due to constant stress affecting their well-being.,525.0,71.0
+214,True,True,False,False,False,False,The user expresses feelings of worthlessness and low self-esteem due to depression.,512.0,72.0
+215,True,False,False,False,False,False,The user expresses emotional distress related to past traumatic experiences.,521.0,68.0
+209,True,False,False,False,False,False,The user expresses significant stress and difficulty relaxing.,520.0,66.0
+211,True,False,False,False,False,False,User expresses emotional distress related to anxiety and depression.,514.0,67.0
+212,True,False,False,False,False,False,User expresses significant work-related stress affecting their mental health.,520.0,68.0
+213,True,False,False,False,False,False,The user expresses distress related to anxiety about travel.,519.0,67.0
+217,True,False,False,False,False,False,The user expresses distress related to anxiety while driving.,514.0,67.0
+216,True,False,False,False,False,False,The user expresses emotional distress related to anxiety.,516.0,66.0
+220,True,False,False,False,False,False,The user expresses distress related to anxiety in social situations.,530.0,68.0
+219,True,True,False,False,False,False,User expresses emotional distress and feelings of inadequacy due to depression.,512.0,70.0
+218,True,False,False,False,False,False,The user expresses emotional distress related to anxiety and self-doubt.,522.0,70.0
+221,True,True,False,False,False,False,The user expresses emotional distress and feelings of hopelessness and worthlessness.,526.0,71.0
+224,True,False,False,False,False,False,The user expresses distress through excessive worry and anxiety.,520.0,67.0
+223,True,False,False,False,False,False,The user expresses ongoing stress and seeks better coping strategies.,528.0,68.0
+225,True,False,False,False,False,False,The user expresses distress related to anxiety and its impact on relationships.,528.0,70.0
+227,True,False,False,False,False,False,The user expresses distress related to anxiety triggered by unexpected changes.,518.0,69.0
+222,True,False,False,False,False,False,User expresses distress related to anxiety in uncertain situations.,517.0,67.0
+226,True,False,False,False,False,False,The user expresses distress related to anxiety.,513.0,65.0
+228,True,False,False,False,False,False,The user expresses emotional distress related to stress and conflict.,526.0,68.0
+229,True,False,False,False,False,False,The user expresses emotional distress due to anxiety and self-criticism.,521.0,71.0
+231,True,False,False,False,False,False,The user expresses emotional distress regarding low energy and motivation.,528.0,68.0
+230,True,False,False,False,False,False,User expresses distress due to work-related stress affecting personal life.,508.0,69.0
+232,True,True,False,False,False,False,The user expresses deep sadness and hopelessness.,517.0,66.0
+233,True,True,False,False,False,False,The user expresses emotional distress and feelings of hopelessness due to depression.,523.0,71.0
+234,True,False,False,False,False,False,The user expresses distress due to intense anxiety symptoms.,524.0,67.0
+239,True,False,False,False,False,False,The user expresses emotional distress related to stress.,527.0,66.0
+241,True,False,False,False,False,False,The user expresses feeling overwhelmed and exhausted due to various pressures.,512.0,69.0
+236,True,False,False,False,False,False,The user expresses distress due to anxiety and intrusive thoughts.,514.0,68.0
+235,True,False,False,False,False,False,The user expresses distress related to anxiety and avoidance behaviors.,510.0,68.0
+238,True,False,False,False,False,False,The user expresses emotional distress and struggles with motivation due to depression.,510.0,70.0
+240,True,False,False,False,False,False,The user expresses distress related to social anxiety.,521.0,66.0
+237,True,False,False,False,False,False,The user expresses distress related to anxiety affecting their sleep.,519.0,68.0
+244,True,False,False,False,False,False,The user expresses emotional distress due to a breakup.,507.0,67.0
+245,True,True,False,False,False,False,The user expresses ongoing emotional distress and feelings of hopelessness.,510.0,69.0
+248,True,False,False,False,False,False,The user expresses emotional distress through excessive worry and anxiety.,512.0,68.0
+247,True,True,False,False,False,False,User expresses emotional distress and feelings of hopelessness due to a recent loss.,506.0,72.0
+246,True,False,False,False,False,False,The user expresses distress related to managing anxiety.,505.0,66.0
+243,True,False,False,False,False,False,The user expresses emotional distress related to isolation and guilt.,514.0,68.0
+251,True,True,False,False,False,False,The user expresses feelings of sadness and hopelessness.,518.0,67.0
+250,True,False,False,False,False,False,The user expresses emotional distress related to depression and a lack of motivation.,519.0,71.0
+252,True,True,False,False,False,False,The user expresses ongoing emotional distress and feelings of deep sadness.,524.0,69.0
+249,True,False,False,False,False,False,The user expresses intense anxiety related to decision-making.,506.0,67.0
+242,True,False,False,False,False,False,The user expresses emotional distress related to depression and its impact on their daily life.,527.0,73.0
+256,True,False,False,False,False,False,The user expresses distress related to anxiety and decision-making.,515.0,68.0
+254,True,False,False,False,False,False,The user expresses emotional distress due to family conflict.,504.0,67.0
+255,True,False,False,False,False,False,The user expresses significant stress related to their workload.,511.0,67.0
+257,True,False,False,False,False,False,The user expresses distress due to work-related stress impacting their health.,509.0,70.0
+258,True,False,False,False,False,False,The user expresses emotional distress related to a lack of energy.,512.0,69.0
+253,True,False,False,False,False,False,The user expresses significant emotional distress due to stress from various life pressures.,521.0,71.0
+261,True,False,False,False,False,False,The user expresses distress related to anxiety and social situations.,520.0,68.0
+260,True,False,False,False,False,False,The user expresses distress about their mental health treatment options.,507.0,68.0
+262,True,False,False,False,False,False,The user expresses overwhelming stress and anxiety related to work presentations.,535.0,69.0
+259,True,True,False,False,False,False,The user expresses emotional distress and feelings of hopelessness due to a recent breakup.,514.0,73.0
+263,True,False,False,False,False,False,The user expresses emotional distress from managing multiple responsibilities.,523.0,67.0
+265,True,False,False,False,False,False,The user expresses emotional distress related to anxiety.,528.0,66.0
+264,True,True,False,False,False,False,The user expresses emotional distress and feelings of worthlessness related to past experiences.,522.0,72.0
+266,True,False,False,False,False,False,The user expresses distress due to anxiety and overanalysis.,530.0,68.0
+269,True,False,False,False,False,False,The user expresses emotional distress related to anxiety and reliance on external validation.,528.0,71.0
+268,True,False,False,False,False,False,User expresses distress due to work-related stress and a toxic environment.,534.0,70.0
+270,True,True,False,False,False,False,User expresses emotional distress and feelings of worthlessness due to depression.,520.0,70.0
+267,True,False,False,False,False,False,The user expresses significant anxiety related to driving on highways.,526.0,68.0
+273,True,False,False,False,False,False,The user expresses significant emotional distress due to chronic stress.,522.0,68.0
+271,True,False,False,False,False,False,The user expresses significant stress due to academic pressures.,524.0,67.0
+275,True,False,False,False,False,False,The user expresses emotional distress related to depression triggers.,526.0,67.0
+276,True,False,False,False,False,False,The user expresses significant anxiety affecting their daily life.,523.0,67.0
+274,True,False,False,False,False,False,The user expresses distress related to anxiety.,526.0,65.0
+278,True,False,False,False,False,False,The user expresses distress related to concentration and motivation issues due to depression.,520.0,71.0
+277,True,False,False,False,False,False,The user expresses distress related to unhealthy coping mechanisms.,519.0,67.0
+272,True,False,False,False,False,False,The user expresses distress related to anxiety and catastrophizing.,535.0,68.0
+280,True,False,False,False,False,False,User expresses distress due to work-related stress affecting their well-being.,521.0,70.0
+281,True,False,False,False,False,False,The user expresses emotional distress and a desire to reconnect with their emotions.,525.0,71.0
+279,True,True,False,False,False,False,The user expresses feelings of worthlessness and self-criticism.,523.0,70.0
+283,True,False,False,False,False,False,The user expresses distress related to their depression and its impact on their appetite and energy levels.,527.0,75.0
+282,True,False,False,False,False,False,The user expresses feeling overwhelmed and burnt out due to work pressure.,520.0,70.0
+286,True,False,False,False,False,False,The user expresses distress due to anxiety affecting daily activities.,534.0,68.0
+285,True,True,False,False,False,False,The user expresses deep sadness and a lack of interest in activities.,523.0,70.0
+284,True,True,False,True,False,False,User expresses distress and thoughts of self-harm but seeks guidance.,526.0,70.0
+290,True,False,False,False,False,False,The user expresses emotional distress related to anxiety and social interactions.,510.0,69.0
+288,True,False,False,False,False,False,The user expresses emotional distress due to excessive worrying and rumination.,535.0,70.0
+287,False,False,False,False,False,False,"The user is inquiring about therapy for anxiety, showing interest in managing their mental health.",509.0,75.0
+289,True,True,False,False,False,False,The user expresses emotional distress and feelings of hopelessness and worthlessness.,519.0,71.0
+293,True,False,False,False,False,False,The user expresses a desire to manage their anxiety.,505.0,67.0
+291,True,True,False,False,False,False,The user expresses feelings of emptiness and sadness related to their depression.,516.0,71.0
+292,True,False,False,False,False,False,The user expresses significant emotional distress due to stress and overwhelming responsibilities.,518.0,70.0
+294,True,True,True,False,False,False,"The user expresses distress and questions their worth, indicating passive ideation.",517.0,71.0
+296,True,False,False,False,False,False,The user expresses distress about their depression and hesitance towards medication.,503.0,71.0
+299,True,False,False,False,False,False,The user expresses emotional distress related to their family dynamics.,511.0,68.0
+298,True,True,False,False,False,False,The user expresses emotional distress and feelings of hopelessness after a breakup.,516.0,71.0
+295,False,False,False,False,False,False,The user is inquiring about the duration and expectations of therapy.,507.0,70.0
+297,True,False,False,False,False,False,The user expresses distress due to anxiety and sleeplessness.,520.0,69.0
+301,True,False,False,False,False,False,The user expresses distress about losing interest in creative activities.,510.0,68.0
+304,True,False,False,False,False,False,The user expresses emotional distress related to stress.,515.0,66.0
+305,True,False,False,False,False,False,The user expresses feeling overwhelmed and seeks guidance for better balance.,516.0,69.0
+306,True,False,False,False,False,False,The user expresses distress due to anxiety affecting their social interactions.,518.0,69.0
+300,True,False,False,False,False,False,The user expresses distress and a desire to find healthier coping strategies.,519.0,70.0
+303,True,False,False,False,False,False,The user expresses stress from work but does not indicate any suicidal thoughts.,516.0,71.0
+307,True,False,False,False,False,False,The user expresses emotional distress and challenges due to depression.,517.0,68.0
+308,True,False,False,False,False,False,The user expresses emotional distress related to anxiety and worry.,511.0,68.0
+310,True,False,False,False,False,False,The user expresses distress about fear of failure affecting their growth.,509.0,69.0
+311,True,False,False,False,False,False,The user expresses distress due to stress affecting their work.,512.0,68.0
+302,True,False,False,False,False,False,The user expresses emotional distress and seeks to understand their depression.,516.0,69.0
+313,True,False,False,False,False,False,The user expresses emotional distress related to stress affecting relationships.,503.0,68.0
+309,True,False,False,False,False,False,The user expresses distress due to anxiety and a desire to overcome it.,510.0,71.0
+312,True,False,False,False,False,False,User expresses distress due to stress affecting their sleep.,518.0,67.0
+314,True,True,True,False,False,False,The user expresses emotional distress and feelings of hopelessness.,513.0,68.0
+316,True,True,True,False,False,False,The user expresses significant emotional distress and feelings of worthlessness.,655.0,69.0
+315,True,False,False,False,False,False,User expresses distress due to stress manifesting physically.,505.0,67.0
+317,True,False,False,False,False,False,The user expresses emotional distress and a desire to improve their situation.,514.0,70.0
+319,True,True,False,False,False,False,The user expresses overwhelming sadness and feelings of depression.,514.0,67.0
+318,True,False,False,False,False,False,The user expresses significant stress and seeks help for management.,514.0,68.0
+323,True,False,False,False,False,False,The user expresses emotional distress and feelings of sadness.,516.0,67.0
+321,True,False,False,False,False,False,The user expresses emotional distress and is seeking help.,513.0,67.0
+324,True,False,False,False,False,False,The user expresses distress due to anxiety affecting their daily life.,520.0,69.0
+325,True,True,False,False,False,False,The user expresses emotional distress and feelings of hopelessness due to depression.,525.0,71.0
+322,True,False,False,False,False,False,"The user expresses distress due to stress from work, family issues, and financial struggles.",513.0,74.0
+320,True,False,False,False,False,False,The user expresses distress due to anxiety affecting their life.,517.0,68.0
+326,True,False,False,False,False,False,The user expresses significant stress and anxiety related to work.,679.0,68.0
+329,True,False,False,False,False,False,The user expresses significant stress and seeks coping strategies.,679.0,67.0
+328,True,False,False,False,False,False,The user expresses significant anxiety and distress but does not indicate any suicidal thoughts or intent.,671.0,74.0
+327,True,False,False,False,False,False,The user expresses distress related to anxiety but does not indicate any suicidal thoughts or intent.,702.0,74.0
+331,True,False,False,False,False,False,The user expresses significant stress and seeks guidance for management techniques.,672.0,69.0
+330,True,False,False,False,False,False,The user expresses significant stress and seeks guidance for management techniques.,674.0,69.0
+335,True,True,False,False,False,False,The user expresses emotional distress and feelings of hopelessness related to their depression.,684.0,72.0
+337,True,False,False,False,False,False,The user expresses emotional distress related to depression.,514.0,66.0
+338,True,False,False,False,False,False,The user expresses emotional distress due to persistent symptoms of depression.,507.0,69.0
+336,True,False,False,False,False,False,User expresses chronic stress and seeks help for management.,502.0,67.0
+334,True,False,False,False,False,False,The user expresses significant stress and seeks coping strategies.,671.0,67.0
+339,False,False,False,False,False,False,The user is inquiring about stress management techniques.,491.0,67.0
+333,True,False,False,False,False,False,The user expresses significant stress and seeks management strategies.,670.0,67.0
+344,True,False,False,False,False,False,The user expresses emotional distress related to stress and worries.,518.0,68.0
+342,True,False,False,False,False,False,The user expresses distress due to financial instability and is seeking counseling.,512.0,70.0
+343,True,False,False,False,False,False,The user expresses distress due to anxiety affecting their daily life.,521.0,69.0
+346,True,True,True,False,False,False,The user expresses significant emotional distress and feelings of hopelessness.,525.0,69.0
+340,True,False,False,False,False,False,The user expresses distress related to anxiety.,512.0,65.0
+341,True,True,False,False,False,False,The user expresses emotional distress and feelings of emptiness due to depression.,520.0,71.0
+345,True,False,False,False,False,False,The user expresses distress due to a toxic work environment.,515.0,68.0
+348,True,True,False,False,False,False,"The user expresses feelings of being down and unmotivated, indicating emotional distress and hopelessness.",538.0,76.0
+347,True,False,False,False,False,False,The user expresses emotional distress related to stress and anxiety.,522.0,68.0
+349,True,False,False,False,False,False,The user expresses distress due to overwhelming work demands.,543.0,67.0
+352,True,False,False,False,False,False,The user expresses emotional distress related to anxiety symptoms.,537.0,67.0
+351,True,False,False,False,False,False,The user expresses significant emotional distress due to anxiety.,528.0,67.0
+332,True,False,False,False,False,False,The user expresses distress related to anxiety but does not indicate any suicidal thoughts or intent.,689.0,74.0
+350,True,False,False,False,False,False,The user expresses significant emotional distress related to stress and panic attacks.,539.0,70.0
+356,True,False,False,False,False,False,The user expresses feeling overwhelmed and stressed by daily life demands.,530.0,69.0
+353,True,False,False,False,False,False,The user expresses daily anxiety and distress.,532.0,65.0
+355,True,False,False,False,False,False,The user expresses ongoing stress and physical symptoms related to it.,542.0,69.0
+354,True,False,False,False,False,False,The user expresses significant anxiety and a desire to seek therapy.,535.0,69.0
+359,True,False,False,False,False,False,The user expresses stress and seeks coping mechanisms.,519.0,66.0
+360,True,False,False,False,False,False,The user expresses distress due to resurfacing anxiety.,522.0,67.0
+363,True,False,False,False,False,False,The user expresses distress due to anxiety.,519.0,65.0
+364,True,False,False,False,False,False,The user expresses emotional distress and a desire to discuss depressive symptoms.,517.0,70.0
+361,True,True,False,False,False,False,User expresses feelings of worthlessness and lack of motivation.,519.0,68.0
+357,True,False,False,False,False,False,The user expresses distress due to anxiety affecting their daily life.,539.0,69.0
+365,True,False,False,False,False,False,The user expresses distress related to anxiety.,517.0,65.0
+366,True,True,False,False,False,False,The user expresses emotional distress and feelings of hopelessness.,523.0,68.0
+358,True,False,False,False,False,False,The user expresses feeling overwhelmed due to anxiety.,515.0,66.0
+362,True,False,False,False,False,False,The user expresses significant anxiety and seeks support.,520.0,66.0
+368,True,True,False,False,False,False,The user expresses emotional distress and feelings of persistent sadness due to depression.,544.0,71.0
+372,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of worthlessness due to depression.,535.0,72.0
+371,True,False,False,False,False,False,The user expresses distress due to overwhelming anxiety affecting their daily life.,543.0,70.0
+369,True,True,False,True,False,False,"The user expresses distress and feelings of hopelessness, along with thoughts of self-harm.",533.0,75.0
+367,True,False,False,False,False,False,The user expresses distress due to ongoing stress affecting their health.,535.0,69.0
+370,True,False,False,False,False,False,The user expresses distress due to anxiety affecting their daily life.,550.0,69.0
+373,True,True,False,False,False,False,The user expresses deep sadness and feelings of failure related to their depression.,537.0,71.0
+375,True,True,False,False,False,False,The user expresses emotional distress and feelings of worthlessness due to depression.,535.0,71.0
+374,True,False,False,False,False,False,The user expresses significant emotional distress related to stress.,542.0,67.0
+378,True,False,False,False,False,False,The user expresses distress due to anxiety affecting their sleep.,533.0,68.0
+377,True,False,False,False,False,False,The user expresses significant anxiety and distress.,529.0,65.0
+376,True,False,False,False,False,False,The user expresses distress related to anxiety triggered by a work presentation.,544.0,70.0
+380,True,False,False,False,False,False,The user expresses distress related to anxiety over decision-making.,528.0,68.0
+383,True,False,False,False,False,False,The user expresses distress related to anxiety and its physical symptoms.,526.0,69.0
+381,True,False,False,False,False,False,The user expresses emotional distress and a desire to improve their mood.,527.0,70.0
+382,True,False,False,False,False,False,The user expresses emotional distress related to anxiety.,522.0,66.0
+385,True,False,False,False,False,False,The user expresses distress related to anxiety in specific situations.,537.0,68.0
+386,True,False,False,False,False,False,The user expresses significant emotional distress due to overwhelming life pressures.,539.0,69.0
+384,True,False,False,False,False,False,The user expresses significant stress and emotional distress.,529.0,66.0
+379,True,False,False,False,False,False,The user expresses emotional distress and mentions experiencing depression.,512.0,67.0
+388,True,True,False,False,False,False,The user expresses emotional distress and feelings of worthlessness related to their depression.,530.0,72.0
+389,True,False,False,False,False,False,The user expresses significant stress and feelings of being overwhelmed.,540.0,68.0
+390,True,False,False,False,False,False,The user expresses distress related to anxiety and a desire for coping mechanisms.,542.0,71.0
+392,True,False,False,False,False,False,The user expresses distress related to anxiety affecting their daily life.,527.0,69.0
+394,True,False,False,False,False,False,The user expresses distress due to financial problems.,518.0,66.0
+393,True,False,False,False,False,False,The user expresses distress related to anxiety and panic attacks.,525.0,68.0
+391,True,False,False,False,False,False,The user expresses distress related to anxiety but does not indicate any suicidal thoughts or intentions.,544.0,74.0
+396,True,False,False,False,False,False,The user expresses significant work-related stress and a desire to seek therapy.,526.0,71.0
+395,True,True,False,False,False,False,The user expresses emotional distress and feelings of hopelessness.,526.0,68.0
+398,True,True,False,False,False,False,The user expresses long-term emotional distress and feelings of worthlessness.,532.0,70.0
+387,True,True,False,False,False,False,The user expresses emotional distress and feelings of worthlessness and hopelessness.,533.0,71.0
+400,True,False,False,False,False,False,The user expresses emotional distress due to overwhelming responsibilities.,537.0,67.0
+397,True,True,False,False,False,False,User expresses feeling low and a sense of meaninglessness.,527.0,68.0
+402,True,False,False,False,False,False,The user expresses distress due to racing thoughts and lack of sleep.,534.0,70.0
+399,True,False,False,False,False,False,The user expresses distress related to social anxiety.,537.0,66.0
+401,True,False,False,False,False,False,The user expresses distress related to anxiety and a desire to regain control.,543.0,71.0
+404,True,False,False,False,False,False,The user expresses emotional distress related to self-esteem and fear of judgment.,534.0,71.0
+403,True,True,False,False,False,False,The user expresses emotional distress and feelings of hopelessness.,535.0,68.0
+408,True,False,False,False,False,False,The user expresses distress related to panic attacks.,553.0,66.0
+405,True,True,False,False,False,False,The user expresses emotional distress and feelings of emptiness and fatigue.,543.0,70.0
+407,True,False,False,False,False,False,The user expresses significant distress due to anxiety and panic attacks.,577.0,69.0
+410,True,False,False,False,False,False,The user expresses significant emotional distress related to anxiety.,637.0,67.0
+409,True,False,False,False,False,False,The user expresses significant anxiety and distress related to work and personal interactions.,650.0,71.0
+411,True,True,False,False,False,False,The user expresses emotional distress and feelings of worthlessness related to past experiences.,594.0,72.0
+406,True,False,False,False,False,False,The user expresses significant anxiety and distress related to decision-making.,637.0,69.0
+412,True,False,False,False,False,False,The user expresses significant anxiety and distress affecting their daily life.,554.0,69.0
+415,True,False,False,False,False,False,The user expresses distress related to anxiety and its impact on their life.,545.0,71.0
+417,True,False,False,False,False,False,The user expresses significant stress and seeks strategies for management.,596.0,68.0
+416,True,True,False,False,False,False,The user expresses deep sadness and struggles with self-esteem.,556.0,68.0
+414,True,True,True,False,False,False,The user expresses distress and feelings of hopelessness and worthlessness.,550.0,70.0
+413,True,True,False,False,False,False,The user expresses feelings of sadness and hopelessness following a breakup.,545.0,70.0
+418,True,False,False,False,False,False,The user expresses significant stress from their work environment.,597.0,67.0
+419,True,False,False,False,False,False,The user expresses emotional distress related to stress and anxiety.,602.0,68.0
+424,True,False,False,False,False,False,The user expresses significant stress and seeks help for coping mechanisms.,647.0,69.0
+426,True,True,False,False,False,False,The user expresses emotional distress and feelings of hopelessness and worthlessness.,610.0,71.0
+425,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of hopelessness and worthlessness.,640.0,72.0
+423,True,False,False,False,False,False,The user expresses significant anxiety and distress affecting their quality of life.,599.0,70.0
+420,True,False,False,False,False,False,The user expresses distress related to social anxiety and isolation.,595.0,68.0
+421,True,False,False,False,False,False,The user expresses distress due to anxiety and intrusive thoughts.,598.0,68.0
+427,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of worthlessness due to depression.,626.0,72.0
+432,True,True,False,False,False,False,The user expresses feelings of distress and depression.,550.0,66.0
+422,True,False,False,False,False,False,The user expresses significant stress and seeks coping strategies.,592.0,67.0
+430,True,True,False,False,False,False,"The user expresses deep sadness and hopelessness, along with questioning their self-worth.",532.0,73.0
+428,True,True,True,False,False,False,The user expresses significant emotional distress and feelings of hopelessness related to their depression.,628.0,73.0
+433,True,True,True,True,False,False,The user expresses significant emotional distress and thoughts of self-harm.,542.0,70.0
+431,True,False,False,False,False,False,The user expresses emotional distress due to juggling multiple responsibilities.,542.0,68.0
+435,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of hopelessness.,542.0,69.0
+429,True,False,False,False,False,False,The user expresses significant distress related to anxiety but does not indicate any suicidal thoughts or intent.,631.0,75.0
+438,True,True,False,False,False,False,The user expresses emotional distress and feelings of worthlessness.,555.0,68.0
+437,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of hopelessness and worthlessness.,548.0,72.0
+440,True,False,False,False,False,False,The user expresses emotional distress related to anxiety symptoms.,526.0,67.0
+439,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of hopelessness due to depression.,552.0,72.0
+434,True,False,False,False,False,False,The user expresses significant emotional distress due to anxiety and panic attacks.,547.0,70.0
+442,True,True,False,False,False,False,The user expresses emotional distress and feelings of hopelessness.,523.0,68.0
+443,True,False,False,False,False,False,The user expresses distress due to anxiety and intrusive thoughts.,522.0,68.0
+444,True,True,False,False,False,False,The user expresses emotional distress and feelings of worthlessness.,525.0,68.0
+441,True,True,False,False,False,False,The user expresses emotional distress and feelings of hopelessness.,523.0,68.0
+436,True,False,False,False,False,False,The user expresses significant anxiety and distress affecting their daily life.,552.0,69.0
+446,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of helplessness due to overwhelming stress.,634.0,73.0
+445,True,True,False,False,False,False,The user expresses emotional distress and feelings of emptiness and hopelessness.,515.0,71.0
+447,True,False,False,False,False,False,The user expresses significant stress and seeks guidance for managing it.,628.0,69.0
+450,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of hopelessness and worthlessness.,546.0,72.0
+448,True,False,False,False,False,False,The user expresses significant distress due to anxiety affecting their daily life.,631.0,70.0
+452,True,True,False,False,False,False,The user expresses emotional distress and feelings of low mood and exhaustion.,530.0,70.0
+455,True,False,False,False,False,False,The user expresses emotional distress related to physical reactions to stress.,533.0,69.0
+453,True,False,False,False,False,False,The user expresses distress related to stress and worry.,527.0,67.0
+454,True,True,False,False,False,False,The user expresses emotional distress and feelings of worthlessness.,542.0,68.0
+449,True,True,True,False,False,False,The user expresses significant emotional distress and feelings of worthlessness.,624.0,69.0
+456,True,False,False,False,False,False,The user expresses distress related to anxiety and decision-making.,537.0,68.0
+451,True,True,False,False,False,False,The user expresses emotional distress and feelings of depression.,525.0,67.0
+457,True,False,False,False,False,False,The user expresses feelings of restlessness and anxiety due to work pressure.,539.0,71.0
+459,True,False,False,False,False,False,The user expresses distress due to intense stress and fatigue from increased workload.,541.0,71.0
+462,True,False,False,False,False,False,The user expresses distress related to anxiety attacks.,540.0,66.0
+461,True,True,False,False,False,False,User expresses emotional distress and feelings of emptiness and exhaustion.,541.0,69.0
+464,True,False,False,False,False,False,The user expresses anxiety and distress related to job loss.,548.0,68.0
+465,True,False,False,False,False,False,The user expresses distress due to anxiety affecting their daily life.,547.0,69.0
+458,True,False,False,False,False,False,The user expresses significant stress and seeks help for coping mechanisms.,539.0,69.0
+466,True,False,False,False,False,False,The user expresses significant stress and a need for counseling.,542.0,68.0
+463,True,True,False,True,False,False,The user expresses emotional distress and thoughts of self-harm.,543.0,69.0
+467,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of worthlessness.,540.0,69.0
+468,True,False,False,True,False,False,User expresses distress and has thoughts of self-harm or suicide.,528.0,70.0
+469,True,False,False,False,False,False,The user expresses emotional distress due to constant worry and fear.,544.0,69.0
+460,True,True,False,False,False,False,The user expresses intense sadness and feelings of hopelessness.,538.0,68.0
+471,True,True,False,False,False,False,The user expresses emotional distress and feelings of hopelessness.,539.0,68.0
+472,True,False,False,False,False,False,The user expresses significant emotional distress related to anxiety.,818.0,67.0
+473,True,True,False,False,False,False,The user expresses emotional distress and feelings of hopelessness and worthlessness.,797.0,71.0
+477,True,False,False,False,False,False,The user expresses significant emotional distress due to anxiety.,789.0,67.0
+475,True,False,False,False,False,False,The user expresses significant distress due to anxiety but does not indicate any suicidal thoughts or intent.,777.0,75.0
+470,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of hopelessness.,542.0,69.0
+480,True,True,False,False,False,False,The user expresses feelings of distress and hopelessness.,558.0,67.0
+478,True,False,False,False,False,False,The user expresses significant emotional distress related to stress management.,746.0,68.0
+479,True,False,False,False,False,False,The user expresses significant emotional distress related to anxiety.,521.0,67.0
+476,True,False,False,False,False,False,The user expresses significant emotional distress related to anxiety.,795.0,67.0
+474,True,False,False,False,False,False,The user expresses significant anxiety and distress but does not indicate any thoughts of self-harm or suicidal ideation.,771.0,79.0
+481,True,True,False,True,False,False,The user expresses emotional distress and self-destructive thoughts related to their depression.,574.0,72.0
+482,True,True,False,False,False,False,The user expresses emotional distress and feelings of worthlessness due to childhood trauma.,585.0,72.0
+483,True,False,False,False,False,False,The user expresses significant emotional distress due to daily stressors.,557.0,69.0
+484,True,False,False,False,False,False,The user expresses significant distress related to anxiety.,583.0,66.0
+485,True,True,False,False,False,False,The user expresses emotional distress and feelings of hopelessness and worthlessness.,581.0,71.0
+487,True,False,False,False,False,False,The user expresses severe anxiety and emotional distress related to performance.,567.0,69.0
+488,True,False,False,False,False,False,The user expresses significant emotional distress due to overwhelming stress.,560.0,68.0
+489,True,True,False,False,False,False,The user expresses emotional distress and feelings of worthlessness due to depression.,569.0,71.0
+486,True,False,False,False,False,False,The user expresses distress due to chronic anxiety affecting their daily life.,572.0,70.0
+491,True,True,False,False,False,False,The user expresses feelings of emptiness and hopelessness related to their depression.,596.0,72.0
+492,True,False,False,False,False,False,The user expresses distress related to anxiety in social situations.,526.0,68.0
+494,True,False,False,False,False,False,The user expresses emotional distress due to grief.,526.0,66.0
+496,True,True,False,False,False,False,The user expresses emotional distress and feelings of hopelessness related to their depression.,552.0,72.0
+490,True,False,False,False,False,False,The user expresses significant emotional distress due to stress affecting their life.,602.0,70.0
+493,True,False,False,False,False,False,The user expresses anxiety about the future.,524.0,65.0
+497,True,False,False,False,False,False,The user expresses significant stress affecting their well-being.,563.0,67.0
+498,True,True,False,False,False,False,The user expresses emotional distress and feelings of hopelessness due to depression and the loss of a friend.,547.0,77.0
+495,True,False,False,False,False,False,The user expresses distress related to anxiety and seeks guidance for managing panic attacks.,526.0,72.0
+501,True,False,False,False,False,False,The user expresses emotional distress and seeks counseling for stress management.,554.0,69.0
+500,True,False,False,False,False,False,The user expresses emotional distress related to their depression and past abuse.,552.0,70.0
+503,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of hopelessness.,560.0,69.0
+505,True,False,False,False,False,False,The user expresses emotional distress related to anxiety.,545.0,66.0
+499,True,False,False,False,False,False,The user expresses distress related to anxiety and performance pressure.,551.0,68.0
+504,True,False,False,False,False,False,The user expresses distress related to social anxiety.,548.0,66.0
+506,True,True,False,False,False,False,The user expresses feelings of failure and worthlessness.,547.0,67.0
+507,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of hopelessness due to depression.,547.0,72.0
+512,True,False,False,False,False,False,The user expresses distress from recurring panic attacks.,522.0,66.0
+511,True,False,False,False,False,False,The user expresses distress related to social anxiety.,520.0,66.0
+513,True,False,False,False,False,False,The user expresses distress due to work-related stress affecting their sleep and concentration.,524.0,72.0
+508,True,False,False,False,False,False,The user expresses emotional distress and a desire to address their depressive symptoms.,517.0,71.0
+509,True,True,False,False,False,False,The user expresses feelings of worthlessness and emotional distress related to family interactions.,528.0,72.0
+510,True,False,False,False,False,False,The user expresses excessive worry and anxiety affecting their daily life.,512.0,69.0
+515,True,True,False,False,False,False,The user expresses significant emotional distress and symptoms of depression.,667.0,68.0
+516,True,False,False,False,False,False,The user expresses distress due to anxiety affecting their daily life.,541.0,69.0
+514,True,False,False,False,False,False,The user expresses intense anxiety and discomfort in social situations.,663.0,68.0
+502,True,False,False,False,False,False,The user expresses distress due to escalating anxiety and withdrawal from activities.,551.0,70.0
+517,True,True,False,False,False,False,The user expresses emotional distress and feelings of worthlessness.,537.0,68.0
+518,True,False,False,False,False,False,The user expresses emotional distress related to anxiety and excessive worry.,566.0,69.0
+522,True,True,False,False,False,False,The user expresses persistent sadness and a desire to understand and manage their depression.,563.0,72.0
+519,True,False,False,False,False,False,The user expresses significant anxiety and distress related to public speaking.,568.0,69.0
+520,True,False,False,False,False,False,The user expresses significant emotional distress due to overwhelming life demands.,551.0,69.0
+521,True,True,False,False,False,False,The user expresses deep emotional distress and hopelessness due to the loss of a family member.,550.0,75.0
+529,True,False,False,False,False,False,The user expresses significant emotional distress due to overwhelming responsibilities.,583.0,68.0
+527,True,False,False,False,False,False,The user expresses significant stress and emotional distress related to work.,590.0,69.0
+524,True,False,False,False,False,False,The user expresses significant emotional distress related to anxiety.,610.0,67.0
+530,True,False,False,False,False,False,The user expresses significant emotional distress related to anxiety.,575.0,67.0
+526,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of hopelessness.,588.0,69.0
+523,True,False,False,False,False,False,The user expresses emotional distress due to overwhelming responsibilities.,546.0,67.0
+525,True,False,False,False,False,False,The user expresses significant distress related to social anxiety.,596.0,67.0
+528,True,True,False,False,False,False,The user expresses emotional distress and feelings of worthlessness.,579.0,68.0
+531,True,False,False,False,False,False,The user expresses distress due to intrusive thoughts and panic attacks.,569.0,69.0
+532,True,True,False,False,False,False,The user expresses emotional distress and feelings of hopelessness.,568.0,68.0
+534,True,False,False,False,False,False,The user expresses emotional distress related to stress and its physical symptoms.,534.0,70.0
+533,True,False,False,False,False,False,The user expresses overwhelming stress and seeks healthier coping mechanisms.,549.0,68.0
+535,True,False,False,False,False,False,The user expresses distress related to anxiety and worries about new situations.,542.0,70.0
+536,True,False,False,False,False,False,The user expresses feeling overwhelmed and exhausted due to job demands.,525.0,69.0
+542,True,True,False,False,False,False,The user expresses emotional distress and feelings of worthlessness due to depression.,548.0,71.0
+540,True,False,False,False,False,False,The user expresses distress related to anxiety and fear of failure.,544.0,69.0
+543,True,True,False,False,False,False,The user expresses emotional distress and feelings of emptiness linked to grief.,577.0,71.0
+538,True,False,False,False,False,False,The user expresses emotional distress related to anxiety and uncertainty.,529.0,68.0
+537,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of hopelessness.,543.0,69.0
+539,True,False,False,False,False,False,The user expresses distress due to anxiety affecting their life.,548.0,68.0
+544,True,True,False,False,False,False,The user expresses severe emotional distress and feelings of hopelessness.,571.0,69.0
+541,True,False,False,False,False,False,The user expresses intense anxiety affecting their daily life.,560.0,67.0
+546,True,False,False,False,False,False,The user expresses significant emotional distress due to family conflicts.,563.0,68.0
+549,True,False,False,False,False,False,The user expresses distress related to anxiety symptoms.,642.0,66.0
+548,True,False,False,False,False,False,The user expresses significant stress and a desire to manage it.,561.0,69.0
+552,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of hopelessness and worthlessness.,612.0,72.0
+553,True,True,False,False,False,False,The user expresses profound sadness and a desire for support to improve their mood.,613.0,72.0
+545,True,False,False,False,False,False,The user expresses significant stress and emotional distress related to work responsibilities.,570.0,70.0
+547,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of hopelessness.,562.0,69.0
+558,True,True,False,False,False,False,The user expresses emotional distress and feelings of hopelessness due to depression.,524.0,71.0
+551,True,False,False,False,False,False,The user expresses significant emotional distress due to stress.,608.0,67.0
+557,True,False,False,False,False,False,The user expresses distress related to anxiety in social situations.,540.0,68.0
+559,True,False,False,False,False,False,The user expresses chronic stress and a desire for coping strategies.,527.0,69.0
+554,True,False,False,False,False,False,The user expresses emotional distress due to significant life changes.,601.0,68.0
+555,True,True,True,False,False,False,The user expresses significant emotional distress and feelings of worthlessness.,617.0,69.0
+550,True,False,False,False,False,False,The user expresses significant anxiety and distress about social situations.,622.0,68.0
+562,True,False,False,False,False,False,The user expresses distress due to anxiety but does not indicate any suicidal thoughts or intent.,858.0,74.0
+560,True,False,False,False,False,False,The user expresses significant distress related to anxiety but does not indicate any thoughts of self-harm or suicidal ideation.,876.0,80.0
+561,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of worthlessness due to depression.,871.0,72.0
+564,True,False,False,False,False,False,The user expresses significant stress and seeks healthier coping strategies.,749.0,68.0
+566,True,True,True,True,False,False,The user expresses significant emotional distress and thoughts of self-harm.,776.0,70.0
+563,True,False,False,False,False,False,The user expresses significant stress and anxiety but does not indicate any suicidal thoughts or intent.,755.0,74.0
+565,True,True,True,True,False,False,"The user expresses significant emotional distress and feelings of worthlessness, along with recurring thoughts of suicide.",761.0,76.0
+567,True,True,True,True,False,False,The user expresses significant emotional distress and thoughts of suicide.,781.0,68.0
+568,True,False,False,False,False,False,The user expresses emotional distress related to anxiety.,528.0,66.0
+570,True,True,False,False,False,False,The user expresses feelings of emptiness and a lack of joy.,537.0,70.0
+569,True,False,False,False,False,False,The user expresses distress due to anxiety affecting their life.,544.0,68.0
+556,True,False,False,False,False,False,The user expresses feeling overwhelmed and emotionally drained due to work and personal responsibilities.,604.0,72.0
+571,True,False,False,False,False,False,The user expresses distress related to anxiety and fear.,545.0,67.0
+572,True,True,True,False,False,False,The user expresses significant emotional distress and feelings of hopelessness.,538.0,69.0
+576,True,True,False,False,False,False,The user expresses emotional distress and feelings of sadness and loss.,548.0,69.0
+573,True,False,False,False,False,False,The user expresses distress due to anxiety but does not indicate hopelessness or suicidal thoughts.,541.0,74.0
+577,True,False,False,False,False,False,The user expresses emotional distress related to depression impacting their life.,539.0,69.0
+578,True,True,False,False,False,False,The user expresses emotional distress and feelings of emptiness related to depression.,542.0,71.0
+582,True,False,False,False,False,False,The user expresses distress due to constant anxiety.,557.0,66.0
+581,True,False,False,False,False,False,The user expresses distress due to anxiety affecting their daily life.,549.0,69.0
+584,True,False,False,False,False,False,The user expresses considerable stress and emotional toll from their responsibilities.,785.0,69.0
+580,True,False,False,False,False,False,The user expresses distress due to anxiety affecting their social interactions.,549.0,69.0
+583,True,False,False,False,False,False,The user expresses significant stress and anxiety related to work and personal life.,762.0,71.0
+574,True,False,False,False,False,False,The user expresses significant emotional distress related to anxiety.,789.0,67.0
+585,True,False,False,False,False,False,The user expresses significant anxiety and distress but does not indicate any suicidal thoughts or intent.,778.0,74.0
+579,True,False,False,False,False,False,The user expresses emotional distress related to intensified depression after a break-up.,547.0,71.0
+587,True,False,False,False,False,False,The user expresses significant stress from work.,532.0,65.0
+575,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of worthlessness related to their depression.,793.0,73.0
+588,True,False,False,False,False,False,The user expresses significant anxiety and distress.,525.0,65.0
+590,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of deep depression.,531.0,69.0
+589,True,False,False,False,False,False,The user expresses distress related to social anxiety affecting their relationships.,536.0,69.0
+591,True,False,False,False,False,False,The user expresses distress due to anxiety affecting their decisions and personal growth.,532.0,71.0
+586,True,False,False,False,False,False,The user expresses distress related to anxiety in social situations.,517.0,68.0
+598,True,False,False,False,False,False,The user expresses emotional distress due to overwhelming anxiety.,542.0,67.0
+592,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of hopelessness.,812.0,69.0
+595,True,False,False,False,False,False,The user expresses persistent stress related to work and seeks healthy coping strategies.,714.0,71.0
+593,True,False,False,False,False,False,The user expresses significant distress due to anxiety but does not indicate any suicidal thoughts or intent.,758.0,75.0
+599,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of worthlessness.,584.0,69.0
+597,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of hopelessness related to their depression.,735.0,73.0
+594,True,False,False,False,False,False,The user expresses significant distress due to anxiety but does not indicate any suicidal thoughts or intent.,715.0,75.0
+600,True,False,False,False,False,False,The user expresses overwhelming stress and frustration but does not indicate any suicidal thoughts.,575.0,72.0
+603,True,True,False,False,False,False,"The user expresses intense feelings of sadness and emptiness, indicating emotional distress and hopelessness.",621.0,75.0
+602,True,False,False,False,False,False,The user expresses significant stress and exhaustion from their responsibilities.,620.0,68.0
+605,True,False,False,False,False,False,The user expresses overwhelming anxiety affecting their life.,694.0,66.0
+604,True,False,False,False,False,False,The user expresses significant stress and seeks coping strategies.,626.0,67.0
+596,True,False,False,False,False,False,The user expresses severe anxiety and distress related to social interactions.,716.0,69.0
+609,True,False,False,False,False,False,The user expresses emotional distress related to stress affecting their relationships.,568.0,69.0
+610,True,True,False,False,False,False,The user expresses emotional distress and feelings of hopelessness related to depression.,567.0,71.0
+607,True,False,False,False,False,False,The user expresses emotional distress due to family conflicts.,592.0,67.0
+601,True,False,False,False,False,False,The user expresses significant anxiety and distress but does not indicate any suicidal thoughts or intent.,642.0,74.0
+606,True,False,False,False,False,False,The user expresses emotional distress related to stress and worry.,588.0,68.0
+611,True,False,False,False,False,False,The user expresses distress related to anxiety affecting their daily life.,563.0,69.0
+612,True,True,False,False,False,False,The user expresses overwhelming sadness and seeks to understand their depression.,565.0,69.0
+608,True,False,False,False,False,False,The user expresses distress related to stress affecting their physical health.,595.0,69.0
+615,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of sadness.,555.0,68.0
+614,True,False,False,False,False,False,The user expresses emotional distress related to anxiety.,544.0,66.0
+618,True,False,False,False,False,False,The user expresses distress related to anxiety and avoidance.,551.0,67.0
+613,True,True,False,False,False,False,The user expresses emotional distress and feelings of depression.,550.0,67.0
+616,True,False,False,False,False,False,The user expresses significant distress due to anxiety affecting their daily life.,558.0,70.0
+619,True,True,True,False,False,False,"The user expresses emotional distress and feelings of hopelessness, questioning the worth of life.",555.0,74.0
+620,True,False,False,False,False,False,The user expresses distress related to anxiety and panic attacks.,638.0,68.0
+617,True,False,False,False,False,False,The user expresses emotional distress and anxiety about intrusive thoughts.,552.0,68.0
+621,True,False,False,False,False,False,The user expresses significant emotional distress due to stress from financial instability and strained relationships.,763.0,73.0
+626,True,False,False,False,False,False,The user expresses emotional distress due to stress from work and caregiving.,536.0,71.0
+622,True,False,False,False,False,False,The user expresses significant emotional distress due to work and social pressures.,773.0,70.0
+625,True,False,False,False,False,False,The user expresses distress related to financial difficulties and stress.,527.0,68.0
+624,True,False,False,False,False,False,The user expresses significant emotional distress related to stress and balancing responsibilities.,737.0,70.0
+627,True,False,False,False,False,False,The user expresses emotional distress and anxiety.,530.0,65.0
+628,True,False,False,False,False,False,The user expresses distress related to anxiety affecting their daily decision-making.,529.0,70.0
+623,True,False,False,False,False,False,The user expresses significant emotional distress due to work and personal responsibilities.,758.0,70.0
+632,True,False,False,False,False,False,The user expresses distress due to anxiety affecting their life.,531.0,68.0
+631,True,True,False,False,False,False,The user expresses emotional distress and feelings of worthlessness.,527.0,68.0
+633,True,False,False,False,False,False,The user expresses distress due to anxiety and panic attacks.,526.0,68.0
+634,True,False,False,False,False,False,The user expresses distress due to work-related pressure and seeks coping mechanisms.,522.0,71.0
+629,True,False,False,False,False,False,The user expresses chronic stress and burnout due to pressure to succeed.,528.0,70.0
+630,True,False,False,False,False,False,The user expresses emotional distress due to high-stress events.,543.0,69.0
+635,True,False,False,False,False,False,The user expresses emotional distress related to anxiety about their health.,529.0,69.0
+637,True,False,False,False,False,False,The user expresses distress due to social anxiety and a desire for counseling.,518.0,71.0
+638,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of emptiness due to depression.,743.0,72.0
+642,True,False,False,False,False,False,The user expresses significant anxiety and distress but does not indicate any thoughts of self-harm or suicidal ideation.,807.0,79.0
+641,True,False,False,False,False,False,The user expresses significant distress due to overwhelming anxiety affecting their daily life.,784.0,71.0
+639,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of hopelessness due to depression.,756.0,72.0
+640,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of hopelessness due to depression.,777.0,72.0
+643,False,False,False,False,False,False,The user does not express personal distress or suicidal thoughts.,530.0,68.0
+636,True,False,False,False,False,False,The user expresses distress due to anxiety and fear of disasters.,528.0,69.0
+647,True,False,False,False,False,False,The user expresses emotional distress related to stress.,524.0,66.0
+644,True,False,False,False,False,False,The user expresses emotional distress related to anxiety.,524.0,66.0
+648,True,False,False,False,False,False,The user expresses emotional distress related to stress.,523.0,66.0
+645,True,True,False,False,False,False,The user expresses emotional distress and feelings of hopelessness.,527.0,68.0
+650,True,False,False,False,False,False,The user expresses stress about adjusting to a new city and job.,537.0,70.0
+646,False,False,False,False,False,False,The user does not express any risk of self-harm or suicidal thoughts.,531.0,72.0
+653,True,False,False,False,False,False,The user expresses significant emotional distress related to anxiety.,781.0,67.0
+649,True,False,False,False,False,False,The user expresses emotional distress related to anxiety.,525.0,66.0
+652,True,False,False,False,False,False,The user expresses emotional distress and seeks support for their depression.,625.0,69.0
+655,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of hopelessness.,606.0,69.0
+651,True,False,False,False,False,False,The user expresses distress due to work demands and anxiety.,533.0,68.0
+656,True,False,False,False,False,False,The user expresses significant emotional distress due to anxiety affecting their daily life.,586.0,71.0
+659,True,False,False,False,False,False,The user expresses significant emotional distress due to overwhelming responsibilities and stress.,585.0,70.0
+657,True,False,False,False,False,False,The user expresses significant anxiety and distress related to performance and decision-making.,604.0,71.0
+654,True,False,False,False,False,False,The user expresses significant emotional distress related to anxiety.,601.0,67.0
+658,True,True,False,False,False,False,"The user expresses feelings of emptiness and sadness, indicating emotional distress and hopelessness.",599.0,74.0
+662,True,False,False,False,False,False,The user expresses extreme anxiety affecting their daily life.,628.0,67.0
+663,True,True,False,False,False,False,The user expresses deep sadness and a lack of motivation.,620.0,68.0
+661,True,False,False,False,False,False,The user expresses significant anxiety and distress but does not indicate any suicidal thoughts or intent.,771.0,74.0
+665,True,False,False,False,False,False,The user expresses significant emotional distress related to anxiety.,606.0,67.0
+666,True,False,False,False,False,False,The user expresses distress due to recurring anxiety attacks.,607.0,67.0
+667,True,False,False,False,False,False,The user expresses overwhelming anxiety related to driving after a car accident.,597.0,70.0
+668,True,False,False,False,False,False,The user expresses distress due to uncontrollable worrying affecting their mental well-being.,579.0,72.0
+670,True,False,False,False,False,False,The user expresses significant stress and seeks strategies for management.,752.0,68.0
+671,True,False,False,False,False,False,The user expresses significant emotional distress related to anxiety.,751.0,67.0
+664,True,False,False,False,False,False,The user expresses high levels of stress and seeks coping strategies.,592.0,69.0
+669,True,False,False,False,False,False,The user expresses significant distress due to anxiety.,603.0,66.0
+674,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of worthlessness due to depression.,729.0,72.0
+672,True,False,False,False,False,False,The user expresses significant stress and seeks help for managing it.,745.0,69.0
+673,True,False,False,False,False,False,The user expresses significant stress and seeks healthier coping mechanisms.,733.0,68.0
+660,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of worthlessness related to their depression.,758.0,73.0
+676,True,False,False,False,False,False,The user expresses significant distress related to social anxiety and its impact on their life.,801.0,73.0
+675,True,False,False,False,False,False,The user expresses significant stress and seeks strategies for management.,767.0,68.0
+678,True,True,False,False,False,False,The user expresses emotional distress and feelings of hopelessness related to their depression.,770.0,72.0
+680,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of hopelessness related to their depression.,734.0,73.0
+682,True,True,False,False,False,False,"The user expresses feelings of sadness and lack of motivation, indicating emotional distress.",617.0,72.0
+677,True,True,False,False,False,False,The user expresses emotional distress and feelings of hopelessness related to their depression.,766.0,72.0
+683,True,False,False,False,False,False,The user expresses distress due to heightened anxiety and seeks help.,602.0,69.0
+679,True,False,False,False,False,False,The user expresses significant emotional distress related to stress but does not indicate any suicidal thoughts or intent.,745.0,76.0
+684,True,False,False,False,False,False,The user expresses distress related to work stress and burnout.,588.0,68.0
+681,True,False,False,False,False,False,The user expresses significant emotional distress related to stress and its impact on their life.,759.0,73.0
+688,True,False,False,False,False,False,The user expresses overwhelming stress and emotional distress.,661.0,66.0
+689,True,False,False,False,False,False,The user expresses significant distress due to anxiety.,653.0,66.0
+691,True,True,False,False,False,False,The user expresses emotional distress and feelings of sadness related to depression.,648.0,70.0
+693,True,False,False,False,False,False,The user expresses significant anxiety and distress but does not indicate any suicidal thoughts or intent.,645.0,74.0
+692,True,False,False,False,False,False,The user expresses overwhelming anxiety affecting their daily life.,633.0,67.0
+686,True,False,False,False,False,False,The user expresses significant anxiety and distress about their mental health.,690.0,69.0
+690,True,True,False,False,False,False,The user expresses ongoing feelings of hopelessness and worthlessness.,628.0,69.0
+695,True,False,False,False,False,False,The user expresses distress about social anxiety.,531.0,65.0
+696,True,False,False,False,False,False,The user expresses constant worry and anxiety affecting their daily life.,533.0,69.0
+694,True,True,False,False,False,False,The user expresses emotional distress and feelings of worthlessness.,523.0,68.0
+697,True,True,False,False,False,False,The user expresses emotional distress and feelings of hopelessness due to recurring depression.,533.0,72.0
+698,True,False,False,False,False,False,The user expresses distress due to anxiety affecting their enjoyment of life.,531.0,70.0
+699,True,True,False,False,False,False,"The user expresses feelings of isolation and sadness, indicating a desire for counseling.",531.0,72.0
+685,True,True,False,False,False,False,The user expresses emotional distress and feelings of hopelessness related to their depression.,684.0,72.0
+700,True,False,False,False,False,False,The user expresses significant anxiety and distress but does not indicate any suicidal thoughts or intent.,736.0,74.0
+687,True,False,False,False,False,False,The user expresses significant distress due to anxiety but does not indicate any suicidal thoughts or intent.,669.0,75.0
+702,True,False,False,False,False,False,The user expresses emotional distress related to their depression and past traumas.,524.0,71.0
+701,True,True,False,False,False,False,User expresses emotional distress due to conflict with parents.,510.0,67.0
+705,True,False,False,False,False,False,The user expresses emotional distress related to anxiety and intrusive thoughts.,558.0,69.0
+707,True,False,False,False,False,False,The user expresses distress related to anxiety and panic attacks in academic settings.,560.0,71.0
+704,True,False,False,False,False,False,The user expresses intense anxiety affecting their daily life.,548.0,67.0
+709,True,False,False,False,False,False,The user expresses emotional distress related to past trauma and its impact on their mental health.,551.0,74.0
+708,True,True,False,False,False,False,The user expresses deep sadness and feelings of emptiness.,554.0,68.0
+710,True,False,False,False,False,False,The user expresses significant emotional distress related to anxiety.,542.0,67.0
+711,True,True,False,False,False,False,The user expresses emotional distress and feelings of worthlessness due to past experiences.,554.0,72.0
+703,True,False,False,False,False,False,The user expresses distress due to anxiety and overthinking.,538.0,68.0
+706,True,True,False,False,False,False,The user expresses emotional distress and feelings of hopelessness.,554.0,68.0
+712,True,False,False,False,False,False,The user expresses significant stress and seeks strategies for management.,717.0,68.0
+714,True,False,False,False,False,False,The user expresses significant emotional distress related to anxiety.,789.0,67.0
+715,True,False,False,False,False,False,The user expresses significant distress related to anxiety but does not indicate any suicidal thoughts or intent.,809.0,75.0
+716,True,False,False,False,False,False,The user expresses significant stress and seeks ways to manage it.,719.0,69.0
+713,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of hopelessness related to their depression.,783.0,73.0
+719,True,False,False,False,False,False,The user expresses significant stress affecting their daily life.,542.0,67.0
+717,True,False,False,False,False,False,The user expresses significant stress and seeks coping strategies.,732.0,67.0
+723,True,False,False,False,False,False,The user expresses feeling overwhelmed and exhausted due to caregiving responsibilities.,530.0,70.0
+721,True,False,False,False,False,False,The user expresses distress related to panic attacks.,524.0,66.0
+720,True,False,False,False,False,False,The user expresses emotional distress due to overwhelming responsibilities.,543.0,67.0
+718,True,False,False,False,False,False,The user expresses significant anxiety about daily activities.,525.0,66.0
+725,True,False,False,False,False,False,The user expresses distress related to work stress and pressure.,532.0,68.0
+727,True,True,False,False,False,False,The user expresses emotional distress and feelings of worthlessness due to their depression.,533.0,72.0
+728,True,True,False,False,False,False,The user expresses emotional distress and struggles with depression related to their past.,532.0,71.0
+724,True,False,False,False,False,False,The user expresses distress related to anxiety affecting their life.,534.0,68.0
+722,True,False,False,False,False,False,The user expresses emotional distress due to grief.,530.0,66.0
+729,True,False,False,False,False,False,The user expresses feeling overwhelmed and stressed due to work and family responsibilities.,857.0,71.0
+731,True,True,False,False,False,False,The user expresses emotional distress and feelings of worthlessness due to intensified depression.,604.0,72.0
+730,True,True,False,False,False,False,The user expresses emotional distress and feelings of hopelessness due to depression.,632.0,71.0
+734,True,False,False,False,False,False,The user expresses significant distress related to social anxiety.,705.0,67.0
+733,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of hopelessness.,591.0,69.0
+726,True,False,False,False,False,False,The user expresses significant emotional distress related to anxiety.,523.0,67.0
+736,True,False,False,False,False,False,The user expresses emotional distress and a desire for relief.,525.0,68.0
+737,True,False,False,False,False,False,The user expresses emotional distress related to worsening depression.,526.0,67.0
+738,True,False,False,False,False,False,The user expresses distress due to a stressful work environment.,523.0,68.0
+735,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of hopelessness following a recent loss.,717.0,73.0
+732,True,True,False,False,False,False,The user expresses ongoing emotional distress and feelings of hopelessness.,605.0,69.0
+740,True,False,False,False,False,False,The user expresses feeling overwhelmed and stressed.,521.0,65.0
+742,True,False,False,False,False,False,The user expresses distress related to panic attacks.,572.0,66.0
+739,True,False,False,False,False,False,The user expresses significant anxiety and distress in social situations.,527.0,68.0
+741,True,False,False,False,False,False,The user expresses significant stress and anxiety due to life changes.,525.0,69.0
+745,True,True,False,False,False,False,The user expresses distress and feelings of worthlessness related to criticism and setbacks.,530.0,72.0
+747,True,False,False,False,False,False,The user expresses distress related to their ongoing struggle with depression.,506.0,69.0
+746,True,False,False,False,False,False,The user expresses severe anxiety and a desire to address it in therapy.,519.0,71.0
+743,True,True,False,False,False,False,The user expresses emotional distress and feelings of hopelessness.,580.0,68.0
+748,True,False,False,False,False,False,The user expresses significant anxiety about social situations.,526.0,66.0
+744,True,False,False,False,False,False,The user expresses significant anxiety and distress related to decision-making.,557.0,69.0
+751,True,False,False,False,False,False,"The user expresses frustration and irritability, indicating emotional distress.",526.0,69.0
+753,True,True,False,False,False,False,User expresses deep sadness and a sense of emptiness.,509.0,68.0
+750,True,False,False,False,False,False,The user expresses distress due to work pressure and seeks coping mechanisms.,518.0,70.0
+754,True,True,False,False,False,False,The user expresses emotional distress and feelings of hopelessness.,511.0,68.0
+749,True,False,False,False,False,False,The user expresses distress related to anxiety and panic attacks.,532.0,68.0
+757,True,False,False,False,False,False,The user expresses significant anxiety and distress affecting their life.,685.0,68.0
+755,True,False,False,False,False,False,The user expresses emotional distress related to their depression and its physical effects.,513.0,71.0
+752,True,False,False,False,False,False,The user expresses distress related to anxiety during presentations.,537.0,67.0
+756,True,False,False,False,False,False,The user expresses significant anxiety and distress but does not indicate any suicidal thoughts or intent.,686.0,74.0
+758,True,False,False,False,False,False,The user expresses significant stress and anxiety related to work conflicts.,716.0,69.0
+761,True,False,False,False,False,False,The user expresses significant stress related to a major life change.,586.0,69.0
+764,True,False,False,False,False,False,The user expresses emotional distress related to sleep issues and physical tension.,571.0,70.0
+760,True,False,False,False,False,False,The user expresses distress related to anxiety affecting their social life.,593.0,69.0
+766,True,False,False,False,False,False,The user expresses distress due to unmanageable stress and anxiety symptoms.,588.0,70.0
+763,True,False,False,False,False,False,The user expresses significant emotional distress related to anxiety about the future.,568.0,70.0
+762,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of hopelessness.,590.0,69.0
+768,True,False,False,False,False,False,The user expresses distress from frequent panic attacks.,570.0,66.0
+759,True,False,False,False,False,False,The user expresses emotional distress related to anxiety.,600.0,66.0
+769,True,False,False,False,False,False,The user expresses significant stress and physical discomfort.,578.0,66.0
+765,True,True,True,False,False,False,"The user expresses emotional distress and feelings of hopelessness, along with passive thoughts about the worth of life.",574.0,78.0
+771,True,False,False,False,False,False,The user expresses significant anxiety and distress impacting their daily life.,747.0,69.0
+770,True,False,False,False,False,False,The user expresses significant stress and anxiety affecting their work performance.,740.0,69.0
+767,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of worthlessness.,575.0,69.0
+773,True,False,False,False,False,False,The user expresses significant stress and feelings of burnout.,757.0,67.0
+774,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of worthlessness due to depression.,797.0,72.0
+776,True,False,False,False,False,False,The user expresses significant distress related to social anxiety.,604.0,67.0
+772,True,False,False,False,False,False,The user expresses significant anxiety and distress affecting their life.,743.0,68.0
+777,True,False,False,False,False,False,The user expresses intense anxiety and a desire to understand and manage it.,595.0,71.0
+778,True,False,False,False,False,False,The user expresses distress due to work-related pressure affecting their mental and physical health.,578.0,73.0
+775,True,False,False,False,False,False,The user expresses intense anxiety and distress related to job loss and its impact on their life.,578.0,75.0
+782,True,True,False,False,False,False,The user expresses emotional distress and feelings of hopelessness.,530.0,68.0
+781,True,False,False,False,False,False,The user expresses significant emotional distress related to anxiety.,579.0,67.0
+779,True,True,False,False,False,False,The user expresses feelings of sadness and hopelessness.,578.0,67.0
+783,True,False,False,False,False,False,The user expresses distress related to anxiety and panic attacks.,533.0,68.0
+780,True,False,False,False,False,False,The user expresses distress related to high-stress situations and physical anxiety symptoms.,574.0,72.0
+786,True,False,False,False,False,False,The user expresses emotional distress due to grief.,542.0,66.0
+784,True,True,False,False,False,False,User expresses emotional distress and feelings of worthlessness.,546.0,67.0
+787,True,False,False,False,False,False,The user expresses feelings of restlessness and unease due to anxiety.,536.0,71.0
+785,True,True,False,False,False,False,The user expresses feelings of worthlessness and distress due to job loss.,534.0,71.0
+791,True,True,False,False,False,False,The user expresses emotional distress and symptoms of depression.,607.0,67.0
+792,True,True,False,False,False,False,The user expresses ongoing struggles with depression and low self-esteem.,615.0,69.0
+794,True,False,False,False,False,False,The user expresses significant stress and anxiety related to public speaking.,539.0,69.0
+790,True,False,False,False,False,False,The user expresses significant anxiety and distress related to various life pressures.,727.0,70.0
+789,True,True,False,False,False,False,The user expresses significant work-related stress and feelings of helplessness.,743.0,70.0
+796,True,True,False,False,False,False,The user expresses emotional distress and feelings of worthlessness due to depression and job loss.,545.0,74.0
+795,True,False,False,False,False,False,The user expresses distress due to anxiety affecting their daily life.,541.0,69.0
+788,True,True,False,False,False,False,The user expresses distress and feelings of hopelessness related to their depression.,694.0,71.0
+793,True,False,False,False,False,False,The user expresses ongoing stress and anxiety.,547.0,65.0
+797,True,False,False,False,False,False,The user expresses significant stress due to life changes.,542.0,67.0
+798,True,False,False,False,False,False,The user expresses distress due to anxiety and overthinking.,543.0,68.0
+799,True,False,False,False,False,False,The user expresses distress due to stress affecting their health and sleep.,545.0,70.0
+801,True,False,False,False,False,False,The user expresses significant stress and concern about their future.,547.0,68.0
+802,True,True,False,False,False,False,The user expresses emotional distress and feelings of worthlessness.,571.0,68.0
+803,True,False,False,False,False,False,The user expresses emotional distress related to stress management.,542.0,67.0
+805,True,False,False,False,False,False,The user expresses significant anxiety and distress related to social situations.,706.0,69.0
+806,True,True,True,False,False,False,"The user expresses deep sadness and hopelessness, feeling a void after losing their pet.",682.0,74.0
+807,True,True,False,False,False,False,"The user expresses feelings of emptiness, sadness, and worthlessness, indicating distress and possible depression.",673.0,77.0
+800,True,False,False,False,False,False,The user expresses distress due to recurring panic attacks.,548.0,67.0
+804,True,False,False,False,False,False,The user expresses significant distress related to career pressures and perfectionism.,565.0,70.0
+812,True,False,False,False,False,False,The user expresses distress related to anxiety in social situations.,538.0,68.0
+808,True,False,False,False,False,False,The user expresses significant stress and anxiety but does not indicate any suicidal thoughts or intent.,657.0,74.0
+810,True,True,False,False,False,False,The user expresses emotional distress and feelings of depression.,549.0,67.0
+809,True,True,False,False,False,False,The user expresses emotional distress and feelings of hopelessness related to their depression.,548.0,72.0
+811,True,False,False,False,False,False,The user expresses distress related to anxiety and decision-making.,543.0,68.0
+814,True,True,False,False,False,False,The user expresses feelings of worthlessness and hopelessness.,533.0,68.0
+815,True,False,False,False,False,False,The user expresses significant anxiety and distress about their life.,550.0,68.0
+813,True,False,False,False,False,False,The user expresses significant emotional distress due to anxiety.,542.0,67.0
+816,True,False,False,False,False,False,The user expresses significant distress due to anxiety.,548.0,66.0
+818,True,True,True,False,False,False,The user expresses emotional distress and feelings of worthlessness.,538.0,68.0
+822,True,False,False,False,False,False,The user expresses significant emotional distress due to overwhelming stress in their life.,620.0,71.0
+820,True,False,False,False,False,False,The user expresses distress related to work stress affecting their mental and physical health.,548.0,72.0
+817,True,False,False,False,False,False,The user expresses emotional distress related to their recent divorce.,536.0,68.0
+823,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of hopelessness.,624.0,69.0
+819,True,False,False,False,False,False,The user expresses significant distress due to anxiety affecting their daily life.,546.0,70.0
+824,True,False,False,False,False,False,The user expresses emotional distress related to anxiety in social situations.,519.0,69.0
+825,True,True,False,False,False,False,The user expresses feelings of distress and hopelessness.,523.0,67.0
+821,True,False,False,False,False,False,The user expresses emotional distress related to anxiety.,613.0,66.0
+826,True,True,False,False,False,False,The user expresses emotional distress and feelings of worthlessness after losing their job and ending a relationship.,522.0,76.0
+828,True,False,False,False,False,False,The user expresses distress related to anxiety in social situations.,552.0,68.0
+827,True,False,False,False,False,False,The user expresses significant stress and anxiety related to work.,555.0,68.0
+830,True,False,False,False,False,False,The user expresses significant anxiety and fear of failure.,547.0,67.0
+831,True,False,False,False,False,False,The user expresses anxiety and restlessness related to unexpected changes.,538.0,69.0
+832,True,False,False,False,False,False,The user expresses distress related to anxiety and its physical symptoms.,558.0,69.0
+829,True,True,False,False,False,False,The user expresses feelings of emptiness and hopelessness.,549.0,68.0
+833,True,False,False,False,False,False,The user expresses emotional distress due to overwhelming anxiety.,522.0,67.0
+835,True,False,False,False,False,False,The user expresses distress due to intensified anxiety.,534.0,66.0
+837,True,False,False,False,False,False,The user expresses distress due to anxiety affecting their functioning.,528.0,68.0
+838,True,False,False,False,False,False,User expresses distress due to work-related stress.,518.0,66.0
+840,True,False,False,False,False,False,The user expresses chronic stress related to academic demands.,526.0,67.0
+834,True,False,False,False,False,False,The user expresses emotional distress due to stress from responsibilities.,521.0,68.0
+841,True,False,False,False,False,False,The user expresses overwhelming depressive feelings and seeks guidance for coping.,530.0,69.0
+842,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of hopelessness related to their depression.,797.0,73.0
+843,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of hopelessness and worthlessness.,769.0,72.0
+844,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of worthlessness due to their depression.,775.0,73.0
+845,True,True,True,False,False,False,"The user expresses significant emotional distress and feelings of hopelessness, along with passive thoughts of being a burden.",757.0,78.0
+836,True,False,False,False,False,False,The user expresses emotional distress related to anxiety.,525.0,66.0
+839,True,False,False,False,False,False,The user expresses significant stress due to various pressures.,523.0,67.0
+846,True,False,False,False,False,False,The user expresses significant distress due to anxiety affecting their daily life.,792.0,70.0
+847,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of hopelessness due to depression.,664.0,72.0
+849,True,False,False,False,False,False,The user expresses significant stress and seeks ways to manage it.,629.0,69.0
+851,True,False,False,False,False,False,The user expresses intense anxiety and seeks coping mechanisms.,542.0,67.0
+848,True,False,False,False,False,False,The user expresses significant distress due to anxiety affecting their social interactions.,675.0,70.0
+850,True,False,False,False,False,False,The user expresses significant emotional distress due to anxiety affecting their daily life.,663.0,71.0
+852,True,True,False,False,False,False,The user expresses emotional distress and feelings of worthlessness.,543.0,68.0
+857,True,False,False,False,False,False,The user expresses distress related to anxiety and seeks help to cope.,538.0,70.0
+853,True,False,False,False,False,False,The user expresses significant anxiety and distress.,544.0,65.0
+855,True,False,False,False,False,False,The user expresses significant stress and feels overwhelmed by life circumstances.,532.0,69.0
+860,True,True,False,False,False,False,The user expresses emotional distress and feelings of hopelessness related to their depression.,568.0,72.0
+858,True,True,False,False,False,False,"The user expresses emotional distress and feelings of hopelessness, indicating possible depression.",727.0,72.0
+854,True,True,False,False,False,False,The user expresses ongoing sadness and feelings of guilt.,543.0,67.0
+861,True,True,False,False,False,False,The user expresses emotional distress and feelings of hopelessness and worthlessness.,557.0,71.0
+856,True,True,False,False,False,False,The user expresses emotional distress and feelings of hopelessness.,541.0,68.0
+863,True,False,False,False,False,False,The user expresses high stress and anxiety related to a traumatic incident.,550.0,70.0
+865,True,False,False,False,False,False,The user expresses significant emotional distress due to overwhelming anxiety and panic attacks.,565.0,71.0
+859,True,False,False,False,False,False,The user expresses significant anxiety and distress but does not indicate any suicidal thoughts or intent.,554.0,74.0
+864,True,False,False,False,False,False,The user expresses overwhelming anxiety and distress.,554.0,65.0
+867,True,False,False,False,False,False,The user expresses significant emotional distress due to stress.,585.0,67.0
+862,True,False,False,False,False,False,The user expresses significant stress and seeks healthier coping mechanisms.,553.0,68.0
+868,True,False,False,False,False,False,The user expresses high anxiety and distress but does not indicate any suicidal thoughts or intent.,588.0,74.0
+873,True,False,False,False,False,False,The user expresses emotional distress related to anxiety.,525.0,66.0
+872,True,False,False,False,False,False,The user expresses significant stress and anxiety due to work demands.,517.0,69.0
+866,True,False,False,False,False,False,The user expresses significant stress and feels overwhelmed by their current situation.,561.0,70.0
+869,True,False,False,False,False,False,The user expresses distress related to anxiety from life changes.,552.0,68.0
+871,True,True,False,False,False,False,The user expresses emotional distress and persistent sadness following the loss of their pet.,541.0,72.0
+870,True,True,False,False,False,False,The user expresses feelings of worthlessness and hopelessness due to being unemployed.,532.0,72.0
+874,True,False,False,False,False,False,The user expresses significant emotional distress due to work-related stress.,531.0,69.0
+875,True,False,False,False,False,False,The user expresses distress due to anxiety but does not indicate hopelessness or suicidal thoughts.,533.0,74.0
+876,True,True,False,False,False,False,The user expresses emotional distress and feelings of emptiness and sadness.,537.0,70.0
+877,True,True,False,False,False,False,The user expresses ongoing emotional distress and feelings of hopelessness and low self-worth.,615.0,73.0
+881,True,False,False,False,False,False,The user expresses significant anxiety and distress.,597.0,65.0
+878,True,True,False,False,False,False,The user expresses emotional distress and feelings of worthlessness due to depression.,617.0,71.0
+882,True,False,False,False,False,False,The user expresses distress related to anxiety affecting their daily life.,596.0,69.0
+883,True,True,False,False,False,False,The user expresses emotional distress and feelings of profound sadness related to their depression.,602.0,72.0
+879,True,False,False,False,False,False,The user expresses significant emotional distress related to stress and anxiety.,611.0,69.0
+885,True,False,False,False,False,False,The user expresses distress related to anxiety and panic episodes.,601.0,68.0
+884,True,False,False,False,False,False,The user expresses distress related to anxiety and its physical manifestations.,599.0,69.0
+886,True,True,False,False,False,False,The user expresses feelings of being trapped and overwhelming sadness.,543.0,68.0
+880,True,True,False,False,False,False,The user expresses emotional distress and feelings of worthlessness related to their depression.,605.0,72.0
+887,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of emptiness.,561.0,69.0
+889,True,False,False,False,False,False,The user expresses significant emotional distress and anxiety.,562.0,66.0
+890,True,False,False,False,False,False,The user expresses distress due to panic attacks affecting their life.,552.0,69.0
+892,True,False,False,False,False,False,The user expresses intense anxiety and difficulty focusing.,522.0,66.0
+888,True,False,False,False,False,False,The user expresses significant anxiety and distress.,551.0,65.0
+893,True,True,False,False,False,False,The user expresses emotional distress and feelings of hopelessness.,519.0,68.0
+894,True,False,False,False,False,False,The user expresses emotional distress due to anxiety.,524.0,66.0
+898,True,True,False,False,False,False,The user expresses emotional distress and feelings of hopelessness.,513.0,68.0
+896,True,False,False,False,False,False,The user expresses emotional distress due to job and personal responsibilities.,525.0,69.0
+899,True,False,False,False,False,False,The user expresses high levels of stress and anxiety.,545.0,67.0
+895,True,False,False,False,False,False,The user expresses significant emotional distress due to chronic stress.,523.0,68.0
+897,True,False,False,False,False,False,The user expresses emotional distress and a struggle with depression.,525.0,68.0
+901,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of hopelessness.,541.0,69.0
+891,True,True,False,False,False,False,The user expresses emotional distress and signs of depression.,568.0,67.0
+903,True,False,False,False,False,False,The user expresses significant emotional distress due to anxiety.,548.0,67.0
+902,True,False,False,False,False,False,The user expresses significant stress affecting their health but does not indicate hopelessness or suicidal thoughts.,555.0,75.0
+904,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of hopelessness.,546.0,69.0
+900,True,False,False,False,False,False,The user expresses significant emotional distress due to anxiety.,546.0,67.0
+905,True,False,False,False,False,False,The user expresses significant emotional distress related to stress.,542.0,67.0
+906,True,False,False,False,False,False,The user expresses significant anxiety and distress about social situations.,550.0,68.0
+909,True,True,False,False,False,False,The user expresses feelings of worthlessness and inadequacy impacting their well-being.,594.0,72.0
+911,True,False,False,False,False,False,The user expresses distress over toxic relationships and feelings of betrayal.,591.0,69.0
+907,True,True,False,False,False,False,The user expresses emotional distress and feelings of hopelessness and worthlessness.,618.0,71.0
+910,True,False,False,False,False,False,The user expresses feelings of being overwhelmed and helpless regarding their parenting challenges.,596.0,71.0
+913,True,False,False,False,False,False,The user expresses distress about intimacy issues in their relationship.,545.0,68.0
+908,True,True,False,False,False,False,The user expresses distress and feelings of sadness and emptiness related to depression.,614.0,72.0
+914,True,False,False,False,False,False,The user expresses significant distress due to family conflicts.,554.0,67.0
+916,True,False,False,False,False,False,The user expresses feeling lost and confused about their spirituality.,549.0,68.0
+919,True,False,False,False,False,False,The user expresses distress over an ethical dilemma at work.,544.0,68.0
+912,True,False,False,False,False,False,The user expresses frustration and emotional distress due to relationship conflicts.,554.0,69.0
+917,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of worthlessness.,548.0,69.0
+920,True,False,False,False,False,False,The user expresses feelings of isolation and loneliness.,544.0,66.0
+921,True,False,False,False,False,False,The user expresses emotional distress related to intimacy issues.,776.0,67.0
+918,True,True,False,False,False,False,The user expresses emotional distress and feelings of inadequacy.,539.0,68.0
+922,True,False,False,False,False,False,The user expresses frustration and dissatisfaction with their career but does not indicate any self-harm thoughts.,792.0,76.0
+926,True,False,False,False,False,False,The user expresses emotional distress related to forming intimate connections.,774.0,68.0
+923,True,False,False,False,False,False,The user expresses emotional distress related to their recent breakup.,793.0,68.0
+924,True,False,False,False,False,False,The user expresses emotional distress related to their confusion about sexuality.,775.0,69.0
+927,True,True,False,False,False,False,The user expresses emotional distress and feelings of worthlessness related to unhealthy relationship patterns.,777.0,73.0
+928,True,False,False,False,False,False,The user expresses emotional distress related to loneliness and social relationships.,824.0,69.0
+925,True,False,False,False,False,False,The user expresses emotional distress and a desire for help in changing negative behavior patterns.,750.0,73.0
+929,True,False,False,False,False,False,The user expresses distress about family conflicts.,527.0,65.0
+930,True,False,False,False,False,False,The user expresses emotional distress related to intimacy issues.,543.0,67.0
+932,True,False,False,False,False,False,The user expresses distress due to family conflicts over financial matters.,516.0,69.0
+931,True,False,False,False,False,False,The user expresses distress about repeating relationship patterns.,520.0,66.0
+915,True,False,False,False,False,False,The user expresses significant emotional distress due to anxiety.,537.0,67.0
+935,False,False,False,False,False,False,The user expresses curiosity about sexuality and relationships.,508.0,66.0
+933,True,False,False,False,False,False,The user expresses emotional distress and fatigue.,518.0,65.0
+937,True,True,False,False,False,False,Emma expresses low self-esteem and feelings of unworthiness.,586.0,68.0
+938,True,True,False,False,False,False,Alex expresses emotional distress related to low self-esteem and body image issues.,580.0,71.0
+934,True,False,False,False,False,False,The user expresses distress over repeated disappointments in romantic relationships.,513.0,69.0
+939,True,True,False,False,False,False,Ryan expresses emotional distress and symptoms of depression.,595.0,66.0
+940,True,False,False,False,False,False,Nathan expresses distress about his relationship patterns and struggles with trust.,568.0,69.0
+942,True,False,False,False,False,False,The user expresses emotional distress related to confusion about their sexual orientation and gender identity.,511.0,73.0
+943,True,False,False,False,False,False,The user expresses feelings of loneliness and a desire for deeper connections.,502.0,70.0
+936,True,False,False,False,False,False,The user expresses distress related to social anxiety and isolation.,511.0,68.0
+946,True,False,False,False,False,False,The user expresses feelings of doubt and being overwhelmed as a new parent.,509.0,71.0
+944,True,False,False,False,False,False,User expresses distress due to ongoing family conflicts but remains hopeful for resolution.,504.0,71.0
+945,True,False,False,False,False,False,The user expresses emotional distress and overwhelming sadness.,515.0,66.0
+941,True,False,False,False,False,False,Emily expresses emotional distress due to family conflict.,572.0,66.0
+950,True,False,False,False,False,False,The user expresses emotional distress regarding their relationship.,611.0,66.0
+947,True,True,False,False,False,False,The user expresses ongoing emotional distress and feelings of hopelessness related to their depression.,615.0,73.0
+952,True,True,False,False,False,False,The user expresses emotional distress and feelings of hopelessness due to persistent depression.,687.0,72.0
+953,True,True,False,False,False,False,"The user expresses feelings of emptiness and a search for meaning, indicating emotional distress.",764.0,74.0
+949,True,False,False,False,False,False,The user expresses distress related to social anxiety and seeks coping strategies.,608.0,70.0
+954,True,True,False,False,False,False,The user expresses distress and hopelessness related to their depression.,698.0,69.0
+951,True,False,False,False,False,False,The user expresses emotional distress due to family conflicts.,598.0,67.0
+948,True,False,False,False,False,False,The user expresses emotional distress related to intimacy issues stemming from past trauma.,608.0,71.0
+956,True,False,False,False,False,False,The user expresses emotional distress regarding their strained marital relationship.,674.0,68.0
+955,True,False,False,False,False,False,The user expresses feelings of overwhelm and self-doubt related to parenting.,696.0,71.0
+960,True,False,False,False,False,False,The user expresses emotional distress regarding intimacy issues in their relationship.,692.0,69.0
+959,True,True,False,False,False,False,The user expresses emotional distress and feelings of worthlessness due to depression.,688.0,71.0
+958,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of hopelessness due to severe depression.,671.0,73.0
+962,True,False,False,False,False,False,The user expresses overwhelming anxiety and seeks relief through counseling.,686.0,68.0
+963,True,False,False,False,False,False,The user expresses emotional and physical distress related to their depression.,548.0,69.0
+957,True,False,False,False,False,False,The user expresses distress related to family conflicts and seeks resolution.,665.0,69.0
+964,True,False,False,False,False,False,The user expresses emotional distress related to past trauma.,544.0,67.0
+961,True,False,False,False,False,False,The user expresses emotional distress related to their relationships.,823.0,67.0
+966,True,False,False,False,False,False,The user expresses distress about intimacy issues and fears.,539.0,67.0
+965,True,False,False,False,False,False,The user expresses emotional distress related to a breakup.,545.0,67.0
+968,True,False,False,False,False,False,The user expresses emotional distress related to anxiety.,533.0,66.0
+970,True,False,False,False,False,False,The user expresses emotional distress related to past trauma.,542.0,67.0
+971,False,False,False,False,False,False,"The user is seeking information about therapy, showing curiosity rather than distress.",540.0,71.0
+973,True,True,False,False,False,False,The user expresses feelings of worthlessness and low self-esteem.,536.0,69.0
+967,True,False,False,False,False,False,The user expresses feeling stuck and uncertain about their marriage.,539.0,68.0
+972,True,False,False,False,False,False,The user expresses emotional distress related to a breakup.,531.0,67.0
+978,True,False,False,False,False,False,The user expresses distress related to alcohol dependency and its impact on their life.,537.0,72.0
+976,True,True,False,False,False,False,The user expresses feelings of worthlessness and emotional distress from past abuse.,541.0,71.0
+975,True,False,False,False,False,False,The user expresses distress related to insomnia affecting their daily life.,576.0,69.0
+969,True,False,False,False,False,False,The user expresses distress about attracting toxic relationships.,532.0,66.0
+980,True,False,False,False,False,False,The user expresses a desire to change behavior and improve self-esteem.,535.0,70.0
+974,True,False,False,False,False,False,The user expresses distress about unhealthy relationships and seeks guidance.,533.0,68.0
+984,True,False,False,False,False,False,The user expresses distress related to anxiety in social situations.,528.0,68.0
+981,True,False,False,False,False,False,The user expresses distress related to their struggle with addiction.,529.0,68.0
+983,True,False,False,False,False,False,The user expresses distress related to low self-esteem.,522.0,67.0
+986,True,False,False,False,False,False,The user expresses distress related to their addiction and seeks help.,520.0,69.0
+977,True,False,False,False,False,False,The user expresses distress related to anger management.,537.0,66.0
+985,True,False,False,False,False,False,The user expresses emotional distress related to a recent breakup.,526.0,68.0
+988,True,False,False,False,False,False,The user expresses distress about their social relationships and feelings of isolation.,513.0,70.0
+987,True,False,False,False,False,False,The user expresses distress about their marriage but remains hopeful for improvement.,527.0,70.0
+982,True,False,False,False,False,False,The user expresses emotional distress related to relationship compromises.,511.0,67.0
+991,True,False,False,False,False,False,The user expresses emotional distress related to relationship challenges and fear of rejection.,767.0,71.0
+992,True,True,True,True,False,False,"The user expresses significant emotional distress and symptoms of depression, including thoughts of worthlessness and recurring thoughts of death.",771.0,79.0
+993,True,True,False,False,False,False,The user expresses emotional distress and feelings of worthlessness following a breakup.,759.0,71.0
+990,True,False,False,False,False,False,The user expresses emotional distress related to past traumas and seeks healing.,756.0,71.0
+989,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of hopelessness.,528.0,69.0
+994,True,False,False,False,False,False,The user expresses distress over their marriage crisis and seeks resolution through counseling.,638.0,71.0
+997,True,False,False,False,False,False,The user expresses emotional distress regarding their relationship with their parents.,516.0,69.0
+979,True,False,False,False,False,False,The user expresses distress about their relationship struggles.,532.0,66.0
+995,True,True,False,False,False,False,The user expresses emotional distress and feelings of worthlessness related to their identity.,540.0,72.0
+998,True,False,False,False,False,False,The user expresses significant emotional distress due to anxiety and panic attacks.,524.0,70.0
+996,True,False,False,False,False,False,The user expresses emotional distress related to forming connections and fear of rejection.,528.0,71.0
+1000,True,False,False,False,False,False,The user expresses emotional distress related to overthinking and relationship issues.,527.0,70.0
+999,True,False,False,False,False,False,The user expresses emotional distress related to trust issues in romantic relationships.,527.0,70.0
+1003,True,True,False,False,False,False,The user expresses intense sadness and feelings of emptiness due to the loss of their best friend.,512.0,76.0
+1002,True,False,False,False,False,False,The user expresses distress related to chronic insomnia affecting their mood and energy.,529.0,71.0
+1006,True,True,False,False,False,False,The user expresses emotional distress and self-doubt regarding their worthiness of love and healthy relationships.,824.0,76.0
+1007,True,False,False,False,False,False,The user expresses emotional distress related to relationship challenges.,787.0,67.0
+1010,True,False,False,False,False,False,The user expresses emotional distress related to grief and guilt.,549.0,68.0
+1001,True,False,False,False,False,False,The user expresses emotional distress about their relationship patterns.,522.0,67.0
+1008,True,False,False,False,False,False,The user expresses emotional distress related to relationship conflicts.,781.0,67.0
+1004,True,False,False,False,False,False,The user expresses discomfort and emotional distress regarding intimacy and communication.,534.0,69.0
+1005,True,False,False,False,False,False,The user expresses significant anxiety and distress affecting their daily life.,816.0,69.0
+1014,True,False,False,False,False,False,The user expresses distress about relationship issues and hopes for improvement through counseling.,513.0,71.0
+1012,True,False,False,False,False,False,The user expresses distress about their marriage but does not indicate hopelessness or suicidal thoughts.,538.0,74.0
+1015,True,False,False,False,False,False,The user expresses distress related to their struggle with addiction.,513.0,68.0
+1013,True,False,False,False,False,False,The user expresses emotional distress regarding family conflicts.,521.0,66.0
+1011,True,False,False,False,False,False,The user expresses emotional distress due to family conflicts.,541.0,67.0
+1016,True,False,False,False,False,False,The user expresses emotional distress regarding a friendship issue.,747.0,67.0
+1009,True,True,False,False,False,False,The user expresses emotional distress related to substance abuse and feelings of shame and guilt.,787.0,73.0
+1018,True,False,False,False,False,False,The user expresses feeling overwhelmed and helpless in their parenting situation.,667.0,69.0
+1017,True,False,False,False,False,False,The user expresses emotional distress about their relationship with their daughter.,692.0,69.0
+1022,True,False,False,False,False,False,The user expresses frustration and sadness about their relationship but does not indicate any self-harm or suicidal thoughts.,879.0,78.0
+1021,True,False,False,False,False,False,The user expresses emotional distress regarding their friendship but does not indicate any thoughts of self-harm or suicide.,897.0,78.0
+1019,True,False,False,False,False,False,The user expresses significant worry and stress about their daughter's behavior.,708.0,69.0
+1023,True,False,False,False,False,False,The user expresses frustration with their relationships.,525.0,65.0
+1020,True,False,False,False,False,False,The user expresses emotional distress related to trust issues in friendships.,665.0,69.0
+1025,True,False,False,False,False,False,The user expresses emotional distress related to trauma.,517.0,66.0
+1026,True,False,False,False,False,False,The user expresses distress about their marriage.,514.0,65.0
+1029,True,False,False,False,False,False,The user expresses emotional distress related to past trauma affecting intimacy.,722.0,69.0
+1030,True,False,False,False,False,False,The user expresses emotional distress related to jealousy and insecurity in their relationship.,516.0,71.0
+1031,True,False,False,False,False,False,The user expresses emotional distress related to fear of relationships.,538.0,68.0
+1027,True,False,False,False,False,False,The user expresses distress about their career situation.,516.0,66.0
+1028,True,False,False,False,False,False,The user expresses distress about intimacy challenges in their relationship.,522.0,68.0
+1032,True,False,False,False,False,False,The user expresses stress about workplace relationships.,491.0,65.0
+1024,True,False,False,False,False,False,The user expresses feeling overwhelmed and seeks help for parenting stress.,517.0,69.0
+1036,True,False,False,False,False,False,The user expresses emotional distress related to a breakup.,506.0,67.0
+1033,True,False,False,False,False,False,The user expresses emotional distress regarding family conflicts.,506.0,66.0
+1034,False,False,False,False,False,False,The user expresses a challenge in intimacy but does not indicate emotional distress or suicidal thoughts.,520.0,74.0
+1040,True,False,False,False,False,False,The user expresses distress related to social anxiety.,516.0,66.0
+1041,True,False,False,False,False,False,The user expresses stress and anxiety related to their relationship.,517.0,68.0
+1037,True,False,False,False,False,False,The user expresses distress regarding their marriage challenges.,503.0,66.0
+1038,True,True,False,False,False,False,The user expresses emotional distress and feelings of worthlessness following a divorce.,675.0,71.0
+1043,True,False,False,False,False,False,The user expresses a desire to change self-destructive behaviors.,519.0,69.0
+1035,True,False,False,False,False,False,The user expresses distress over recurring conflicts in friendships.,502.0,67.0
+1039,True,True,False,False,False,False,The user expresses emotional distress and feelings of hopelessness.,509.0,68.0
+1046,True,False,False,False,False,False,The user expresses emotional distress related to trust issues and their impact on relationships.,529.0,72.0
+1049,True,False,False,False,False,False,The user expresses overwhelming anxiety and panic related to driving after a car accident.,518.0,72.0
+1042,True,False,False,False,False,False,The user expresses distress about their marriage concerns.,520.0,66.0
+1050,True,False,False,False,False,False,The user expresses emotional distress related to their relationships.,523.0,67.0
+1047,True,False,False,False,False,False,The user expresses feeling overwhelmed and seeks counseling for support.,528.0,68.0
+1048,True,True,False,False,False,False,The user expresses emotional distress and feelings of worthlessness.,513.0,68.0
+1044,True,False,False,False,False,False,The user expresses emotional distress related to anxiety and insecurity in social situations.,519.0,71.0
+1051,True,False,False,False,False,False,The user expresses significant anxiety affecting their daily life.,521.0,67.0
+1045,True,False,False,False,False,False,The user expresses emotional distress due to a strained relationship with their parents.,523.0,71.0
+1053,True,False,False,False,False,False,The user expresses distress due to family conflict affecting their mental health.,537.0,70.0
+1055,True,True,False,False,False,False,User expresses emotional distress and feelings of hopelessness after an abusive relationship.,529.0,71.0
+1057,True,False,False,False,False,False,The user expresses emotional distress related to a breakup.,533.0,67.0
+1054,True,False,False,False,False,False,The user expresses distress related to their struggle with addiction.,530.0,68.0
+1058,True,False,False,False,False,False,The user expresses emotional distress related to grief and loss.,501.0,68.0
+1060,True,False,False,False,False,False,The user expresses distress due to overwhelming anxiety.,505.0,66.0
+1061,True,False,False,False,False,False,The user expresses distress about worsening anxiety in social situations.,511.0,68.0
+1062,True,False,False,False,False,False,The user expresses feeling overwhelmed in parenting.,508.0,65.0
+1056,True,False,False,False,False,False,The user expresses confusion and a longing for meaning in their life.,536.0,70.0
+1059,True,False,False,False,False,False,The user expresses distress about their relationship issues.,504.0,66.0
+1064,False,False,False,False,False,False,The user expresses a desire for personal growth and improvement.,501.0,68.0
+1068,True,False,False,False,False,False,The user expresses emotional distress related to their relationship.,513.0,67.0
+1065,True,False,False,False,False,False,The user expresses distress due to escalating anxiety and panic attacks.,507.0,69.0
+1067,True,True,False,False,False,False,User expresses distress and hopelessness related to depression.,471.0,67.0
+1070,True,False,False,False,False,False,User expresses frustration and a desire for better communication.,502.0,67.0
+1063,True,False,False,False,False,False,The user expresses distress regarding intimacy issues in their relationship.,500.0,68.0
+1052,True,False,False,False,False,False,The user expresses confusion and fear about their recent diagnosis.,530.0,68.0
+1072,True,False,False,False,False,False,The user expresses emotional distress related to anxiety in social situations.,531.0,69.0
+1066,True,True,False,False,False,False,The user expresses distress related to low self-esteem and self-worth.,512.0,70.0
+1069,True,False,False,False,False,False,The user expresses emotional distress about their relationship.,513.0,66.0
+1073,True,False,False,False,False,False,The user expresses emotional distress from toxic relationships.,521.0,66.0
+1074,True,False,False,False,False,False,The user expresses distress related to substance use and emotional pain.,524.0,69.0
+1071,True,False,False,False,False,False,The user expresses emotional distress related to insecurity and jealousy.,525.0,68.0
+1078,True,True,False,True,False,False,The user expresses significant emotional distress and has contemplated self-harm.,544.0,70.0
+1079,True,False,False,False,False,False,The user expresses emotional distress related to loneliness and struggles with friendships.,526.0,70.0
+1077,True,False,False,False,False,False,The user expresses significant emotional distress due to anxiety.,544.0,67.0
+1075,True,False,False,False,False,False,The user expresses overwhelming anxiety affecting their daily life.,540.0,67.0
+1076,True,False,False,False,False,False,The user expresses distress over relationship difficulties.,531.0,65.0
+1081,True,False,False,False,False,False,The user expresses distress about social interactions and seeks guidance.,524.0,68.0
+1080,True,False,False,False,False,False,The user expresses emotional distress related to trauma.,531.0,66.0
+1082,True,True,False,False,False,False,The user expresses emotional distress and feelings of hopelessness regarding their marriage.,527.0,71.0
+1084,True,False,False,False,False,False,The user expresses distress related to anxiety and a desire to manage it.,523.0,71.0
+1083,True,False,False,False,False,False,The user expresses distress due to constant anxiety affecting their well-being.,524.0,70.0
+1085,True,True,False,False,False,False,The user expresses emotional distress and feelings of worthlessness.,530.0,68.0
+1086,True,True,False,False,False,False,The user expresses emotional distress and feelings of hopelessness.,535.0,68.0
+1087,True,False,False,False,False,False,The user expresses emotional distress related to their sexual identity.,523.0,68.0
+1091,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of emptiness.,547.0,69.0
+1090,True,True,False,False,False,False,The user expresses emotional distress related to intimacy issues and feelings of worthlessness.,547.0,72.0
+1088,True,False,False,False,False,False,The user expresses emotional distress due to family conflicts.,527.0,67.0
+1093,True,False,False,False,False,False,The user expresses distress related to communication issues and low self-esteem.,596.0,70.0
+1089,True,False,False,False,False,False,The user expresses significant emotional distress related to stress and burnout.,537.0,69.0
+1092,True,True,False,False,False,False,The user expresses emotional distress and feelings of hopelessness due to a toxic relationship.,761.0,73.0
+1095,True,True,False,False,False,False,The user expresses emotional distress and feelings of hopelessness regarding family conflicts.,687.0,71.0
+1094,True,False,False,False,False,False,The user expresses distress about a toxic work environment affecting their mental health.,530.0,71.0
+1097,True,False,False,False,False,False,The user expresses emotional distress related to their military service.,503.0,68.0
+1096,True,False,False,False,False,False,The user expresses distress related to social anxiety and its impact on their life.,536.0,72.0
+1098,False,False,False,False,False,False,The user expresses confusion about their desires but does not indicate distress or suicidal thoughts.,506.0,73.0
+1100,True,False,False,False,False,False,The user expresses emotional distress due to family conflicts.,508.0,67.0
+1099,False,False,False,False,False,False,The user expresses a desire to improve their relationships.,507.0,67.0
+1104,True,False,False,False,False,False,The user expresses emotional distress and symptoms of depression.,517.0,67.0
+1101,True,False,False,False,False,False,User expresses feelings of loneliness and insecurity after a breakup.,506.0,68.0
+1102,True,False,False,False,False,False,The user expresses distress about their social relationships.,509.0,66.0
+1106,True,False,False,False,False,False,User expresses emotional distress from a recent breakup.,511.0,66.0
+1103,True,False,False,False,False,False,User expresses distress over gambling addiction.,506.0,64.0
+1105,True,False,False,False,False,False,The user expresses distress about their family dynamic affecting their mental well-being.,517.0,71.0
+1108,True,False,False,False,False,False,The user expresses emotional distress related to their relationships and feelings of disconnection.,859.0,72.0
+1110,True,False,False,False,False,False,User expresses distress about being in an unhealthy relationship.,505.0,67.0
+1107,True,True,False,False,False,False,The user expresses emotional distress and feelings of worthlessness regarding their relationships.,883.0,71.0
+1111,True,True,False,False,False,False,The user expresses emotional distress and feelings of hopelessness related to their divorce.,817.0,72.0
+1114,True,False,False,False,False,False,The user expresses emotional distress related to challenges in relationships.,525.0,68.0
+1112,True,False,False,False,False,False,User expresses distress about family relationships.,508.0,64.0
+1117,True,False,False,False,False,False,The user expresses feelings of being overwhelmed as a new parent.,527.0,69.0
+1113,True,False,False,False,False,False,The user expresses emotional distress related to trust issues in relationships.,513.0,69.0
+1109,True,False,False,False,False,False,The user expresses emotional distress related to social skills and relationships.,518.0,69.0
+1118,True,False,False,False,False,False,The user expresses distress due to anxiety affecting their life.,535.0,68.0
+1115,True,False,False,False,False,False,The user expresses intense anxiety and distress about panic attacks.,546.0,68.0
+1116,True,False,False,False,False,False,The user expresses distress about changes in intimacy with their partner.,530.0,69.0
+1120,True,False,False,False,False,False,The user expresses significant distress due to family conflict.,550.0,67.0
+1119,True,False,False,False,False,False,The user expresses emotional distress related to conflicts in their romantic relationship.,711.0,70.0
+1121,True,True,False,False,False,False,The user expresses feelings of isolation and questioning their worth.,562.0,68.0
+1125,True,True,True,False,False,False,"The user expresses feelings of hopelessness and emptiness, questioning the worth of life.",545.0,74.0
+1123,True,True,False,False,False,False,The user expresses emotional distress and feelings of emptiness.,529.0,68.0
+1127,True,False,False,False,False,False,The user expresses emotional distress related to loneliness and struggles in relationships.,540.0,70.0
+1126,True,False,False,False,False,False,The user expresses distress about their failing marriage.,548.0,66.0
+1122,True,False,False,False,False,False,The user expresses distress about their marriage and a desire for counseling.,543.0,70.0
+1128,True,False,False,False,False,False,The user expresses significant anxiety and distress related to challenges.,545.0,68.0
+1124,True,False,False,False,False,False,The user expresses confusion and existential dread regarding their spirituality.,508.0,68.0
+1129,True,False,False,False,False,False,The user expresses emotional distress about their strained marriage.,542.0,67.0
+1130,True,False,False,False,False,False,The user expresses emotional distress related to confusion and insecurity about their sexual orientation and gender identity.,752.0,75.0
+1131,True,False,False,False,False,False,The user expresses significant emotional distress due to severe anxiety attacks.,745.0,69.0
+1136,True,False,False,False,False,False,The user expresses significant distress due to anxiety affecting their daily life.,694.0,70.0
+1133,True,True,False,False,False,False,The user expresses emotional distress and a sense of hopelessness regarding their relationship patterns.,532.0,73.0
+1135,True,False,False,False,False,False,The user expresses emotional distress related to trust issues in relationships.,687.0,69.0
+1138,True,False,False,False,False,False,The patient expresses distress about understanding their diagnosis and managing symptoms.,722.0,69.0
+1132,True,False,False,False,False,False,The user expresses intense anxiety and emotional distress affecting their life.,539.0,69.0
+1137,True,False,False,False,False,False,The user expresses emotional distress related to boundary-setting in relationships.,697.0,69.0
+1134,True,False,False,False,False,False,The user expresses feeling overwhelmed and stressed due to legal issues.,526.0,69.0
+1140,True,False,False,False,False,False,The user expresses distress about procrastination and self-doubt.,512.0,69.0
+1142,False,False,False,False,False,False,The user is seeking information about counseling.,530.0,65.0
+1141,True,True,False,False,False,False,The user expresses emotional distress related to relationship difficulties and self-doubt.,710.0,71.0
+1139,True,False,False,False,False,False,The user expresses distress about feeling stuck and is seeking counseling for clarity.,509.0,71.0
+1144,True,False,False,False,False,False,The user expresses emotional distress due to a recent breakup.,503.0,68.0
+1143,True,False,False,False,False,False,The user expresses distress about ethical concerns at work.,527.0,67.0
+1145,True,False,False,False,False,False,The user expresses distress related to discrimination and societal pressure.,512.0,68.0
+1148,True,False,False,False,False,False,The user expresses distress over substance abuse and its impact on their life.,667.0,71.0
+1147,True,False,False,False,False,False,The user expresses distress due to anxiety affecting their life.,511.0,68.0
+1146,True,False,False,False,False,False,The user expresses emotional distress related to past trauma.,519.0,67.0
+1149,True,False,False,False,False,False,The user expresses emotional distress related to their identity and challenges.,540.0,69.0
+1150,True,False,False,False,False,False,The user expresses significant anxiety and distress affecting their life.,548.0,68.0
+1154,True,False,False,False,False,False,The user expresses frustration and emotional distress regarding intimacy issues in their relationship.,587.0,71.0
+1151,True,False,False,False,False,False,The user expresses distress about their relationship with their teenager.,537.0,68.0
+1153,True,False,False,False,False,False,The user expresses feeling overwhelmed and anxious.,611.0,65.0
+1152,True,False,False,False,False,False,The user expresses significant anxiety and distress affecting their daily life.,550.0,69.0
+1155,True,False,False,False,False,False,The user expresses distress about their relationship struggles.,586.0,66.0
+1156,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of hopelessness.,576.0,69.0
+1158,True,False,False,False,False,False,The user expresses distress over anger management issues.,516.0,66.0
+1157,True,True,False,False,False,False,The user expresses distress and chronic sadness related to depression.,583.0,68.0
+1160,True,False,False,False,False,False,The user expresses distress about their difficulties in relationships.,515.0,67.0
+1162,True,False,False,False,False,False,The user expresses distress due to family conflict.,516.0,66.0
+1163,True,False,False,False,False,False,The user expresses sadness and worry about their relationship.,524.0,67.0
+1159,True,True,False,False,False,False,The user expresses emotional distress and feelings of emptiness after a breakup.,511.0,71.0
+1161,True,False,False,False,False,False,The user expresses distress about their fear of intimacy affecting relationships.,512.0,69.0
+1164,True,False,False,False,False,False,The user expresses distress about their recent bipolar disorder diagnosis.,524.0,68.0
+1167,True,True,False,False,False,False,The user expresses emotional distress and feelings of hopelessness regarding infertility struggles.,523.0,71.0
+1165,True,False,False,False,False,False,The user expresses significant anxiety and distress in social situations.,524.0,68.0
+1166,True,False,False,False,False,False,The user expresses distress about conflicts in their marriage.,520.0,67.0
+1169,True,False,False,False,False,False,The user expresses distress due to intense anxiety.,524.0,66.0
+1168,True,False,False,False,False,False,The user expresses stress related to intimacy issues in their relationship.,507.0,69.0
+1170,True,False,False,False,False,False,The user expresses distress about their relationship.,518.0,65.0
+1172,True,False,False,False,False,False,The user expresses anxiety and distress related to social situations.,528.0,68.0
+1171,False,False,False,False,False,False,The user discusses challenges in intimacy and communication within their relationship.,522.0,69.0
+1176,True,False,False,False,False,False,The user expresses distress about their substance use and its impact on their life.,584.0,72.0
+1173,True,False,False,False,False,False,The user expresses emotional distress related to relationship difficulties.,522.0,67.0
+1175,True,False,False,False,False,False,The user expresses emotional distress due to conflicts in relationships.,564.0,68.0
+1174,True,False,False,False,False,False,The user expresses nervousness about starting counseling.,530.0,66.0
+1177,True,False,False,False,False,False,The user expresses feelings of overwhelm and anxiety related to parenting.,590.0,69.0
+1179,True,False,False,False,False,False,The user expresses confusion and internal turmoil about their sexuality.,514.0,68.0
+1183,True,False,False,False,False,False,The user expresses distress about communication challenges in relationships.,513.0,67.0
+1185,True,False,False,False,False,False,The user expresses distress about their relationships and self-doubt.,526.0,69.0
+1182,True,False,False,False,False,False,The user expresses distress about their relationships and a desire for improvement.,514.0,70.0
+1184,True,True,False,False,False,False,The user expresses emotional distress and feelings of hopelessness after a breakup.,519.0,71.0
+1178,True,False,False,False,False,False,The user expresses significant emotional distress due to overwhelming stress.,577.0,68.0
+1180,True,False,False,False,False,False,The user expresses emotional distress from a recent breakup.,522.0,67.0
+1181,True,False,False,False,False,False,The user expresses distress due to intense anxiety and panic attacks.,511.0,69.0
+1188,True,False,False,False,False,False,The user expresses distress due to anxiety affecting their life.,522.0,68.0
+1191,True,False,False,False,False,False,The user expresses emotional distress related to anxiety and personal identity.,838.0,69.0
+1192,True,False,False,False,False,False,The user expresses feeling overwhelmed as a new parent.,550.0,67.0
+1193,False,False,False,False,False,False,The message does not express any mental health concerns.,489.0,67.0
+1190,True,False,False,False,False,False,The user expresses emotional distress related to personal relationships and parenting challenges.,611.0,70.0
+1189,True,False,False,False,False,False,The user expresses emotional distress related to their sexual identity.,662.0,68.0
+1187,True,False,False,False,False,False,The user expresses emotional distress due to their parents' divorce.,549.0,69.0
+1196,True,False,False,False,False,False,The user expresses emotional distress related to parenting.,523.0,66.0
+1198,True,False,False,False,False,False,The user expresses distress about their career situation.,517.0,66.0
+1195,True,True,False,False,False,False,The user expresses feelings of distress and hopelessness.,545.0,67.0
+1197,True,False,False,False,False,False,The user expresses emotional distress regarding their relationship.,521.0,66.0
+1186,True,True,False,False,False,False,The user expresses distress related to self-esteem issues.,551.0,67.0
+1194,True,False,False,False,False,False,The user expresses emotional distress regarding their relationship.,534.0,66.0
+1200,False,False,False,False,False,False,The user expresses a desire to understand counseling to overcome challenges.,501.0,69.0
+1203,True,False,False,False,False,False,The user expresses feelings of loneliness and frustration due to strained relationships.,530.0,70.0
+1202,True,True,False,False,False,False,The user expresses deep sadness and a sense of emptiness.,535.0,69.0
+1199,True,False,False,False,False,False,The user expresses distress about their unfulfilling marriage.,537.0,69.0
+1207,True,False,False,False,False,False,The user expresses feeling overwhelmed and seeks help to manage stress and anxiety.,525.0,71.0
+1204,True,False,False,False,False,False,The user expresses distress due to work-related stress affecting their well-being.,530.0,71.0
+1201,True,False,False,False,False,False,The user expresses distress due to anxiety in social situations.,540.0,68.0
+1208,True,False,False,False,False,False,The user expresses distress related to self-esteem issues.,529.0,67.0
+1210,False,False,False,False,False,False,The user expresses a desire for positive change and seeks counseling.,505.0,69.0
+1205,True,False,False,False,False,False,The user expresses emotional distress over a recent breakup.,529.0,67.0
+1211,True,False,False,False,False,False,The user expresses distress about their relationship issues.,504.0,66.0
+1209,True,False,False,False,False,False,The user expresses distress about intimacy issues in their relationship.,534.0,68.0
+1206,True,False,False,False,False,False,The user expresses distress about their challenging romantic relationship.,533.0,67.0
+1213,True,False,False,False,False,False,The user expresses emotional distress related to a recent breakup.,515.0,68.0
+1214,True,False,False,False,False,False,The user expresses distress about their romantic relationship.,520.0,66.0
+1215,True,False,False,False,False,False,The user expresses distress over strained friendships and seeks advice for improvement.,518.0,70.0
+1212,True,False,False,False,False,False,The user expresses emotional distress related to a breakup.,512.0,67.0
+1216,True,False,False,False,False,False,The user expresses significant anxiety and distress.,533.0,65.0
+1218,True,False,False,False,False,False,User expresses distress about intimacy issues with their partner.,505.0,67.0
+1222,True,True,False,False,False,False,The user expresses emotional distress and feelings of inadequacy related to new parenting.,522.0,72.0
+1223,True,False,False,False,False,False,The user expresses feeling stuck and unfulfilled in their career.,530.0,69.0
+1219,True,False,False,False,False,False,The user expresses distress about their relationships.,498.0,65.0
+1224,True,True,False,False,False,False,The user expresses distress and feelings of worthlessness related to low self-esteem.,533.0,72.0
+1220,True,False,False,False,False,False,The user expresses distress about their destructive behaviors and desire to change.,522.0,70.0
+1221,True,False,False,False,False,False,The user expresses distress about their relationships.,526.0,65.0
+1226,True,False,False,False,False,False,The user expresses emotional distress about feeling disconnected from their spirituality.,526.0,69.0
+1217,True,False,False,False,False,False,The user expresses feeling overwhelmed and excluded at work.,508.0,67.0
+1227,True,False,False,False,False,False,The user expresses uncertainty and fear about seeking counseling.,540.0,67.0
+1225,False,False,False,False,False,False,The user expresses a desire to understand their sexuality but does not show signs of distress or self-harm.,522.0,78.0
+1228,True,False,False,False,False,False,The user expresses distress over a moral dilemma at work.,532.0,68.0
+1229,True,False,False,False,False,False,The user expresses distress about their struggle with substance abuse.,543.0,68.0
+1231,True,False,False,False,False,False,The user expresses sadness about their strained relationship with their sibling.,535.0,69.0
+1232,True,False,False,False,False,False,The user expresses emotional distress due to stress and pressure.,535.0,68.0
+1234,True,False,False,False,False,False,The user expresses distress related to anxiety affecting their life.,520.0,68.0
+1233,True,False,False,False,False,False,The user expresses emotional distress related to jealousy and insecurity in their relationship.,528.0,71.0
+1236,True,False,False,False,False,False,The user expresses emotional distress related to their marriage dissolution.,523.0,68.0
+1230,True,True,False,False,False,False,The user expresses feelings of being overwhelmed and inadequate as a new parent.,538.0,71.0
+1238,True,False,False,False,False,False,The user expresses significant distress due to anxiety affecting their daily life.,558.0,70.0
+1237,True,False,False,False,False,False,The user expresses uncertainty and insecurity about parenting.,530.0,66.0
+1235,True,True,False,False,False,False,The user expresses emotional distress and feelings of worthlessness related to their relationships.,522.0,72.0
+1239,True,False,False,False,False,False,The user expresses distress about their emotional barriers in relationships.,520.0,68.0
+1240,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of worthlessness due to legal issues.,667.0,73.0
+1243,True,False,False,False,False,False,The user expresses emotional distress related to a breakup.,534.0,67.0
+1241,True,False,False,False,False,False,The user expresses feeling overwhelmed and anxious.,540.0,65.0
+1245,True,False,False,False,False,False,The user expresses distress related to worsening anxiety.,536.0,66.0
+1244,True,False,False,False,False,False,The user expresses emotional distress and concern about behavioral changes.,538.0,68.0
+1242,True,False,False,False,False,False,The user expresses distress related to sleep issues and exhaustion.,534.0,68.0
+1249,True,True,False,False,False,False,The user expresses emotional distress and feelings of inadequacy.,518.0,68.0
+1246,True,False,False,False,False,False,The user expresses overwhelming stress related to a legal issue.,531.0,68.0
+1247,True,False,False,False,False,False,The user expresses significant distress due to anxiety.,528.0,66.0
+1250,True,False,False,False,False,False,The user expresses emotional distress related to anxiety and panic attacks.,520.0,69.0
+1248,True,False,False,False,False,False,The user expresses intense anxiety impacting their daily life.,527.0,67.0
+1251,True,False,False,False,False,False,The user expresses a desire to overcome addiction and improve their well-being.,524.0,71.0
+1254,True,False,False,False,False,False,The user expresses emotional distress following a painful breakup.,529.0,67.0
+1255,True,False,False,False,False,False,The user expresses distress due to legal issues affecting their mental health.,532.0,70.0
+1257,True,False,False,False,False,False,The user expresses distress due to ongoing family conflict.,526.0,67.0
+1258,True,False,False,False,False,False,The user expresses significant anxiety and distress.,538.0,65.0
+1252,True,False,False,False,False,False,The user expresses emotional distress about a conflict regarding a friend's unethical behavior.,549.0,71.0
+1259,True,False,False,False,False,False,The user expresses significant stress related to a legal matter.,533.0,68.0
+1260,True,False,False,False,False,False,The user expresses distress due to panic attacks affecting their daily functioning.,536.0,70.0
+1261,True,False,False,False,False,False,The user expresses significant stress related to work.,523.0,66.0
+1256,True,False,False,False,False,False,The user expresses distress about their stagnant romantic relationship.,525.0,67.0
+1262,True,False,False,False,False,False,The user expresses feelings of loneliness and isolation.,525.0,66.0
+1264,True,False,False,False,False,False,The user expresses distress about their career and uncertainty about their future.,527.0,70.0
+1263,True,False,False,False,False,False,The user expresses emotional distress related to past bullying and difficulty in forming relationships.,533.0,72.0
+1265,True,False,False,False,False,False,The user expresses distress about attracting toxic partners and seeks guidance for improvement.,514.0,71.0
+1253,True,False,False,False,False,False,The user expresses significant anxiety and distress.,535.0,65.0
+1269,True,False,False,False,False,False,The user expresses emotional distress related to parenting.,523.0,66.0
+1266,True,False,False,False,False,False,The user expresses distress about challenges in their marriage.,504.0,67.0
+1267,True,False,False,False,False,False,The user expresses intense anxiety and a desire to regain control.,526.0,69.0
+1271,True,True,False,False,False,False,The user expresses emotional distress and feelings of worthlessness regarding their relationships.,738.0,71.0
+1270,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of emptiness in their marriage.,869.0,72.0
+1275,True,False,False,False,False,False,The user expresses emotional distress related to personal relationships and feelings of isolation.,744.0,71.0
+1272,True,True,False,False,False,False,The user expresses significant emotional distress and feelings of emptiness due to grief.,751.0,72.0
+1273,True,False,False,False,False,False,The user expresses significant anxiety related to their new job.,730.0,68.0
+1274,True,False,False,False,False,False,The user expresses distress about social situations and a desire to improve.,526.0,70.0
+1278,True,False,False,False,False,False,The user expresses emotional distress related to parenting challenges.,769.0,67.0
+1276,True,False,False,False,False,False,The user expresses emotional distress and confusion about their mental health.,741.0,69.0
+1268,False,False,False,False,False,False,The user is seeking information about a career in counseling.,511.0,68.0
+1280,True,True,False,False,False,False,The user expresses emotional distress and feelings of unworthiness.,520.0,68.0
+1277,True,False,False,False,False,False,The user expresses emotional distress related to boundary issues in relationships.,739.0,69.0
+1279,True,False,False,False,False,False,The user expresses significant stress and anxiety but does not indicate any suicidal thoughts or intent.,710.0,74.0
